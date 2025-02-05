@@ -14,18 +14,22 @@ var body = document.querySelector('body');
 
 
 
-function loadMap() {
+async function loadMap() {
     fetch('./src/components/mapChunk.html')
         .then((response) => response.text())
         .then((html) => {
             mapChunkHtml = html;
 
-            for (let x = -25; x < 25; x++) {
-                for (let y = -25; y < 25; y++) {
-                    fetchMapPng(`./gjdude/${x},${y}.png`, x, y);
-                }
-            }
+            fetchMaps();
         });
+}
+
+async function fetchMaps() {
+    for (let x = -30; x < 30; x++) {
+        for (let y = -30; y < 30; y++) {
+            await fetchMapPng(`./result/${x},${y}.png`, x, y);
+        }
+    }
 }
 
 async function fetchMapPng(url, x, y) {
@@ -35,7 +39,7 @@ async function fetchMapPng(url, x, y) {
         return;
     }
 
-    const image = response.blob();
+    // const image = response.blob();
 
     // const imageUrl = URL.createObjectURL(image);
 
@@ -66,8 +70,8 @@ function handlePointerMove(evt) {
     if (!isPointerDown)
         return;
 
-    currentMapPosition.x += evt.movementX;
-    currentMapPosition.y += evt.movementY;
+    currentMapPosition.x += evt.movementX / currentZoom;
+    currentMapPosition.y += evt.movementY / currentZoom;
 
     mapRoot.style.left = `${currentMapPosition.x}px`;
     mapRoot.style.top = `${currentMapPosition.y}px`;
@@ -87,7 +91,7 @@ function handleScroll(evt) {
         currentZoom += zoom;
     }
 
-    currentZoom = Math.max(0.01, currentZoom);
+    currentZoom = Math.max(0.05, currentZoom);
 
     body.style.zoom = currentZoom;
 }
