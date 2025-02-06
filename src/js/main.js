@@ -88,8 +88,8 @@ function handleScroll(evt) {
         currentZoom += zoom;
     }
 
-    currentMapPosition.x -= 512 * sign;
-    currentMapPosition.y -= 512 * sign;
+    currentMapPosition.x -= (512 * 0.35 / 4) * sign;
+    currentMapPosition.y -= (512 * 0.35 / 4) * sign;
 
     mapRoot.style.left = `${currentMapPosition.x}px`;
     mapRoot.style.top = `${currentMapPosition.y}px`;
@@ -97,6 +97,8 @@ function handleScroll(evt) {
     currentZoom = Math.max(0.05, currentZoom);
 
     body.style.zoom = currentZoom;
+
+    console.log(evt);
 }
 
 loadMap();
