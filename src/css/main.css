@@ -16,14 +16,14 @@ body {
 }
 
 .map-chunk {
-    width: 512px;
-    height: 512px;
+    width: 2048px;
+    height: 2048px;
     pointer-events: none
 }
 
 .map-chunk-image {
-    width: 512px;
-    height: 512px;
+    width: 2048px;
+    height: 2048px;
     pointer-events: none;    
     image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
     image-rendering: -moz-crisp-edges;          /* Firefox                        */

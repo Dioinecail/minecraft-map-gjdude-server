@@ -11,6 +11,7 @@ var currentZoom = 1;
 var isPointerDown = false;
 var mapRoot = document.querySelector('.map-root');
 var body = document.querySelector('body');
+var mapJson;
 
 
 
@@ -20,29 +21,26 @@ async function loadMap() {
         .then((html) => {
             mapChunkHtml = html;
 
-            fetchMaps();
+            fetch('./data.json')
+                .then((response) => response.json())
+                .then((json) => {
+                    mapJson = json;
+
+                    fetchMaps();
+                });
         });
+
 }
 
-async function fetchMaps() {
-    for (let x = -30; x < 30; x++) {
-        for (let y = -30; y < 30; y++) {
-            await fetchMapPng(`./result/${x},${y}.png`, x, y);
-        }
-    }
+function fetchMaps() {
+    mapJson.map.forEach(data => {
+        const { url, x, y } = data;
+
+        fetchMapPng(url, x, y);
+    });
 }
 
-async function fetchMapPng(url, x, y) {
-    const response = await fetch(url);
-
-    if (!response.ok) {
-        return;
-    }
-
-    // const image = response.blob();
-
-    // const imageUrl = URL.createObjectURL(image);
-
+function fetchMapPng(url, x, y) {
     let div = document.createElement('div');
     let chunkId = `id-${x}-${y}`;
 
@@ -79,10 +77,9 @@ function handlePointerMove(evt) {
 
 function handleScroll(evt) {
     let zoom = evt.wheelDeltaY / 200;
-
+    let sign = Math.sign(zoom / 10);
 
     if (currentZoom <= 1) {
-        let sign = Math.sign(zoom / 10);
         let clampedZoom = Math.min(0.05, Math.abs(zoom / 10));
 
         currentZoom += (clampedZoom * sign);
@@ -90,6 +87,12 @@ function handleScroll(evt) {
     else {
         currentZoom += zoom;
     }
+
+    currentMapPosition.x -= 512 * sign;
+    currentMapPosition.y -= 512 * sign;
+
+    mapRoot.style.left = `${currentMapPosition.x}px`;
+    mapRoot.style.top = `${currentMapPosition.y}px`;
 
     currentZoom = Math.max(0.05, currentZoom);
 
