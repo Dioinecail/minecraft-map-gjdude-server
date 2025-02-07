@@ -1,0 +1,22 @@
+{
+  "id": "hmmm_1526-88-2600",
+  "name": "hmmm",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7966015-waypoint-icon.png",
+  "x": 1526,
+  "y": 88,
+  "z": 2600,
+  "r": 134,
+  "g": 114,
+  "b": 193,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

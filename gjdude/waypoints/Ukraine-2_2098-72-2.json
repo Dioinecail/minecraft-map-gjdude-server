@@ -1,0 +1,22 @@
+{
+  "id": "Ukraine-2_2098-72-2",
+  "name": "Ukraine 2",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7981237-waypoint-icon.png",
+  "x": 2098,
+  "y": 72,
+  "z": 2,
+  "r": 134,
+  "g": 55,
+  "b": 75,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

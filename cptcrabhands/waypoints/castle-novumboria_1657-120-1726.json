@@ -1,0 +1,22 @@
+{
+  "id": "castle-novumboria_1657-120-1726",
+  "name": "castle novumboria",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16729091-waypoint-icon.png",
+  "x": 1657,
+  "y": 120,
+  "z": 1726,
+  "r": 0,
+  "g": 187,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

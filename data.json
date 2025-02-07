@@ -175,5 +175,250 @@
 			"x":4,
 			"y":6
 		}
+	],
+	"waypoints":[
+		{
+			"x":1657,
+			"y":1726,
+			"elevation":120,
+			"color":"rgb(0, 187, 253)",
+			"name":"castle novumboria",
+			"owner":"cptcrabhands",
+			"id":"castle-novumboria_1657-120-1726"
+		},
+		{
+			"x":-190,
+			"y":-8,
+			"elevation":64,
+			"color":"rgb(139, 153, 6)",
+			"name":"Castle von Chud",
+			"owner":"cptcrabhands",
+			"id":"Castle-von-Chud_-190-64-8"
+		},
+		{
+			"x":351,
+			"y":-284,
+			"elevation":64,
+			"color":"rgb(42, 131, 104)",
+			"name":"driftlander",
+			"owner":"cptcrabhands",
+			"id":"driftlander_351-64-284"
+		},
+		{
+			"x":-6181,
+			"y":4729,
+			"elevation":251,
+			"color":"rgb(0, 231, 254)",
+			"name":"home",
+			"owner":"cptcrabhands",
+			"id":"home_-6181-251-4729"
+		},
+		{
+			"x":-10126,
+			"y":2278,
+			"elevation":64,
+			"color":"rgb(69, 132, 0)",
+			"name":"Maki+Idlya",
+			"owner":"cptcrabhands",
+			"id":"Maki-Idlya_-10126-64-2278"
+		},
+		{
+			"x":-118,
+			"y":3067,
+			"elevation":64,
+			"color":"rgb(0, 219, 153)",
+			"name":"novumland",
+			"owner":"cptcrabhands",
+			"id":"novumland_-118-64-3067"
+		},
+		{
+			"x":-2840,
+			"y":4830,
+			"elevation":63,
+			"color":"rgb(251, 153, 2)",
+			"name":"random village",
+			"owner":"cptcrabhands",
+			"id":"random-village_-2840-63-4830"
+		},
+		{
+			"x":97,
+			"y":11,
+			"elevation":72,
+			"color":"rgb(51, 6, 221)",
+			"name":"spawn",
+			"owner":"cptcrabhands",
+			"id":"spawn_97-72-11"
+		},
+		{
+			"x":-911,
+			"y":-1819,
+			"elevation":264,
+			"color":"rgb(239, 83, 230)",
+			"name":"stars",
+			"owner":"cptcrabhands",
+			"id":"stars_-911-264-1819"
+		},
+		{
+			"x":662,
+			"y":391,
+			"elevation":70,
+			"color":"rgb(254, 39, 18)",
+			"name":"balamoryland",
+			"owner":"gjdude",
+			"id":"balamoryland_662-70-391"
+		},
+		{
+			"x":345,
+			"y":-290,
+			"elevation":67,
+			"color":"rgb(102, 176, 50)",
+			"name":"Casa de Drift",
+			"owner":"gjdude",
+			"id":"Casa-de-Drift_345-67-290"
+		},
+		{
+			"x":-181,
+			"y":-20,
+			"elevation":66,
+			"color":"rgb(253, 83, 8)",
+			"name":"Castle Von Chud",
+			"owner":"gjdude",
+			"id":"Castle-Von-Chud_-181-66-20"
+		},
+		{
+			"x":-524,
+			"y":94,
+			"elevation":71,
+			"color":"rgb(250, 188, 2)",
+			"name":"Central Poxland",
+			"owner":"gjdude",
+			"id":"Central-Poxland_-524-71-94"
+		},
+		{
+			"x":1137,
+			"y":23,
+			"elevation":76,
+			"color":"rgb(3, 146, 206)",
+			"name":"Commandland",
+			"owner":"gjdude",
+			"id":"Commandland_1137-76-23"
+		},
+		{
+			"x":-6174,
+			"y":4752,
+			"elevation":244,
+			"color":"rgb(2, 71, 254)",
+			"name":"Cpt. Crab Inc.",
+			"owner":"gjdude",
+			"id":"Cpt-Crab-Inc-_-6174-244-4752"
+		},
+		{
+			"x":711,
+			"y":-1802,
+			"elevation":64,
+			"color":"rgb(167, 25, 75)",
+			"name":"Fico\u0027s Freaky Island",
+			"owner":"gjdude",
+			"id":"Fico-s-Freaky-Island_711-64-1802"
+		},
+		{
+			"x":1526,
+			"y":2600,
+			"elevation":88,
+			"color":"rgb(134, 114, 193)",
+			"name":"hmmm",
+			"owner":"gjdude",
+			"id":"hmmm_1526-88-2600"
+		},
+		{
+			"x":-10084,
+			"y":2227,
+			"elevation":72,
+			"color":"rgb(250, 188, 2)",
+			"name":"makiville",
+			"owner":"gjdude",
+			"id":"makiville_-10084-72-2227"
+		},
+		{
+			"x":1648,
+			"y":1727,
+			"elevation":120,
+			"color":"rgb(254, 39, 18)",
+			"name":"NOVUMBOREA",
+			"owner":"gjdude",
+			"id":"NOVUMBOREA_1648-120-1727"
+		},
+		{
+			"x":-231,
+			"y":1430,
+			"elevation":70,
+			"color":"rgb(3, 146, 206)",
+			"name":"Spawn Station",
+			"owner":"gjdude",
+			"id":"Spawn-Station_-231-70-1430"
+		},
+		{
+			"x":138,
+			"y":28,
+			"elevation":112,
+			"color":"rgb(102, 176, 50)",
+			"name":"Spawn Tower",
+			"owner":"gjdude",
+			"id":"Spawn-Tower_138-112-28"
+		},
+		{
+			"x":-768,
+			"y":-1725,
+			"elevation":300,
+			"color":"rgb(3, 146, 206)",
+			"name":"stars skyland",
+			"owner":"gjdude",
+			"id":"stars-skyland_-768-300-1725"
+		},
+		{
+			"x":-2979,
+			"y":68,
+			"elevation":68,
+			"color":"rgb(136, 2, 0)",
+			"name":"SUMMER CAMP",
+			"owner":"gjdude",
+			"id":"SUMMER-CAMP_-2979-68-68"
+		},
+		{
+			"x":2098,
+			"y":2,
+			"elevation":72,
+			"color":"rgb(134, 55, 75)",
+			"name":"Ukraine 2",
+			"owner":"gjdude",
+			"id":"Ukraine-2_2098-72-2"
+		},
+		{
+			"x":2429,
+			"y":-1021,
+			"elevation":100,
+			"color":"rgb(208, 234, 43)",
+			"name":"very cool",
+			"owner":"gjdude",
+			"id":"very-cool_2429-100-1021"
+		},
+		{
+			"x":-3474,
+			"y":1303,
+			"elevation":143,
+			"color":"rgb(254, 39, 18)",
+			"name":"VOLCAINUM",
+			"owner":"gjdude",
+			"id":"VOLCAINUM_-3474-143-1303"
+		},
+		{
+			"x":580,
+			"y":53,
+			"elevation":68,
+			"color":"rgb(143, 20, 181)",
+			"name":"Witches\u0027 Circle",
+			"owner":"gjdude",
+			"id":"Witches-Circle_580-68-53"
+		}
 	]
 }

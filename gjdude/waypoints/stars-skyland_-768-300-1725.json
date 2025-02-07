@@ -1,0 +1,22 @@
+{
+  "id": "stars-skyland_-768-300-1725",
+  "name": "stars skyland",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16543026-waypoint-icon.png",
+  "x": -768,
+  "y": 300,
+  "z": -1725,
+  "r": 3,
+  "g": 146,
+  "b": 206,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "random-village_-2840-63-4830",
+  "name": "random village",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--288510-waypoint-icon.png",
+  "x": -2840,
+  "y": 63,
+  "z": 4830,
+  "r": 251,
+  "g": 153,
+  "b": 2,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

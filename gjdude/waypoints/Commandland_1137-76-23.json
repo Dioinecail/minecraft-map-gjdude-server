@@ -1,0 +1,22 @@
+{
+  "id": "Commandland_1137-76-23",
+  "name": "Commandland",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16543026-waypoint-icon.png",
+  "x": 1137,
+  "y": 76,
+  "z": 23,
+  "r": 3,
+  "g": 146,
+  "b": 206,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

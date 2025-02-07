@@ -1,4 +1,5 @@
 var mapChunkHtml = null;
+var waypointHtml = null;
 var mapData = [];
 
 var currentMapPosition = {
@@ -11,7 +12,7 @@ var currentZoom = 1;
 var isPointerDown = false;
 var mapRoot = document.querySelector('.map-root');
 var body = document.querySelector('body');
-var mapJson;
+var mapJson = null;
 
 
 
@@ -30,6 +31,21 @@ async function loadMap() {
                 });
         });
 
+    fetch('./src/components/waypoint.html')
+        .then((response) => response.text())
+        .then((html) => {
+            waypointHtml = html;
+
+            if (mapJson == null) {
+                fetch('./data.json')
+                    .then((response) => response.json())
+                    .then((json) => {
+                        mapJson = json;
+
+                        processWaypoint();
+                    });
+            }
+        });
 }
 
 function fetchMaps() {
@@ -54,6 +70,32 @@ function fetchMapPng(url, x, y) {
     chunkDiv.style.position = 'absolute';
     chunkDiv.style.left = `${x * 512}px`;
     chunkDiv.style.top = `${y * 512}px`;
+}
+
+function processWaypoint() {
+    mapJson.waypoints.forEach(waypoint => {
+        createWaypoint(waypoint);
+    });
+}
+
+function createWaypoint(waypoint) {
+    const { x, y, elevation, color, name, owner, id } = waypoint;
+
+    let div = document.createElement('div');
+    let waypointId = `id-${id}`;
+
+    document.querySelector('.map-root').appendChild(div);
+
+    div.outerHTML = waypointHtml.replace('{waypoint-id}', waypointId);
+
+    let waypointDiv = document.querySelector(`#${waypointId}`);
+
+    waypointDiv.querySelector('.waypoint-text').textContent = `${name}\r\nWaypoint by: ${owner}\r\nCoords: [x:${x}, z:${y}, y:${elevation}]`;
+    waypointDiv.querySelector('.waypoint-position').style.backgroundColor = color;
+    waypointDiv.querySelector('.waypoint-text').style.color = color;
+    waypointDiv.style.position = 'absolute';
+    waypointDiv.style.left = `${x}px`;
+    waypointDiv.style.top = `${y}px`;
 }
 
 function handlePointerDown(evt) {
@@ -88,8 +130,8 @@ function handleScroll(evt) {
         currentZoom += zoom;
     }
 
-    currentMapPosition.x -= (512 * 0.35 / 4) * sign;
-    currentMapPosition.y -= (512 * 0.35 / 4) * sign;
+    // currentMapPosition.x -= (512 * 0.35 / 4) * sign;
+    // currentMapPosition.y -= (512 * 0.35 / 4) * sign;
 
     mapRoot.style.left = `${currentMapPosition.x}px`;
     mapRoot.style.top = `${currentMapPosition.y}px`;
@@ -97,8 +139,6 @@ function handleScroll(evt) {
     currentZoom = Math.max(0.05, currentZoom);
 
     body.style.zoom = currentZoom;
-
-    console.log(evt);
 }
 
 loadMap();

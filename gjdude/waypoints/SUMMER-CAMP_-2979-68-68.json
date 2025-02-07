@@ -1,0 +1,22 @@
+{
+  "id": "SUMMER-CAMP_-2979-68-68",
+  "name": "SUMMER CAMP",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7863808-waypoint-icon.png",
+  "x": -2979,
+  "y": 68,
+  "z": 68,
+  "r": 136,
+  "g": 2,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

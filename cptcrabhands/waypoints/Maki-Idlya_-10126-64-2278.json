@@ -1,0 +1,22 @@
+{
+  "id": "Maki-Idlya_-10126-64-2278",
+  "name": "Maki+Idlya",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12221440-waypoint-icon.png",
+  "x": -10126,
+  "y": 64,
+  "z": 2278,
+  "r": 69,
+  "g": 132,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

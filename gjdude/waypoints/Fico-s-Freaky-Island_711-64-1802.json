@@ -1,0 +1,22 @@
+{
+  "id": "Fico-s-Freaky-Island_711-64-1802",
+  "name": "Fico\u0027s Freaky Island",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5826229-waypoint-icon.png",
+  "x": 711,
+  "y": 64,
+  "z": -1802,
+  "r": 167,
+  "g": 25,
+  "b": 75,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

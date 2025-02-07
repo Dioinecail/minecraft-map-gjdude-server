@@ -1,0 +1,22 @@
+{
+  "id": "Cpt-Crab-Inc-_-6174-244-4752",
+  "name": "Cpt. Crab Inc.",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16627714-waypoint-icon.png",
+  "x": -6174,
+  "y": 244,
+  "z": 4752,
+  "r": 2,
+  "g": 71,
+  "b": 254,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

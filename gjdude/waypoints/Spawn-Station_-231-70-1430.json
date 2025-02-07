@@ -1,0 +1,22 @@
+{
+  "id": "Spawn-Station_-231-70-1430",
+  "name": "Spawn Station",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16543026-waypoint-icon.png",
+  "x": -231,
+  "y": 70,
+  "z": 1430,
+  "r": 3,
+  "g": 146,
+  "b": 206,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
