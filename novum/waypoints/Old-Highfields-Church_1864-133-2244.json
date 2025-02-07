@@ -1,0 +1,22 @@
+{
+  "id": "Old-Highfields-Church_1864-133-2244",
+  "name": "Old Highfields Church",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7163906-waypoint-icon.png",
+  "x": 1864,
+  "y": 133,
+  "z": 2244,
+  "r": 146,
+  "g": 175,
+  "b": 254,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

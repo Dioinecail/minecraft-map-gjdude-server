@@ -1,0 +1,22 @@
+{
+  "id": "Spinning-Bee-River_1441-75-1096",
+  "name": "Spinning Bee River",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--6368020-waypoint-icon.png",
+  "x": 1441,
+  "y": 75,
+  "z": 1096,
+  "r": 158,
+  "g": 212,
+  "b": 236,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

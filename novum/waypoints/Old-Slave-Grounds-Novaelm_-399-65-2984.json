@@ -1,0 +1,22 @@
+{
+  "id": "Old-Slave-Grounds-Novaelm_-399-65-2984",
+  "name": "Old Slave Grounds Novaelm",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--6368020-waypoint-icon.png",
+  "x": -399,
+  "y": 65,
+  "z": 2984,
+  "r": 158,
+  "g": 212,
+  "b": 236,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

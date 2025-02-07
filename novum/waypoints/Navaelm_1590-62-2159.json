@@ -1,0 +1,22 @@
+{
+  "id": "Navaelm_1590-62-2159",
+  "name": "Navaelm",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7947799-waypoint-icon.png",
+  "x": 1590,
+  "y": 62,
+  "z": 2159,
+  "r": 134,
+  "g": 185,
+  "b": 233,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

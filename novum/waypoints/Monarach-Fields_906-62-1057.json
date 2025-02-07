@@ -1,0 +1,22 @@
+{
+  "id": "Monarach-Fields_906-62-1057",
+  "name": "Monarach Fields",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8854917-waypoint-icon.png",
+  "x": 906,
+  "y": 62,
+  "z": 1057,
+  "r": 120,
+  "g": 226,
+  "b": 123,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

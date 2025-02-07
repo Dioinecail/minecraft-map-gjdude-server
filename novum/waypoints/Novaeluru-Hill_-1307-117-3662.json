@@ -1,0 +1,22 @@
+{
+  "id": "Novaeluru-Hill_-1307-117-3662",
+  "name": "Novaeluru Hill",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--2365443-waypoint-icon.png",
+  "x": -1307,
+  "y": 117,
+  "z": 3662,
+  "r": 219,
+  "g": 231,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

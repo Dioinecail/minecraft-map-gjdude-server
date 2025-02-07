@@ -1,0 +1,22 @@
+{
+  "id": "New-Emerald-Delta_1865-135-2223",
+  "name": "New Emerald Delta",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16523390-waypoint-icon.png",
+  "x": 1865,
+  "y": 135,
+  "z": 2223,
+  "r": 3,
+  "g": 223,
+  "b": 130,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

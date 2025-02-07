@@ -1,0 +1,22 @@
+{
+  "id": "Widow-s-Hole_903-64-785",
+  "name": "Widow\u0027s Hole",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7772985-waypoint-icon.png",
+  "x": 903,
+  "y": 64,
+  "z": 785,
+  "r": 137,
+  "g": 100,
+  "b": 199,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

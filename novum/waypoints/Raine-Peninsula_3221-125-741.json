@@ -1,0 +1,22 @@
+{
+  "id": "Raine-Peninsula_3221-125-741",
+  "name": "Raine Peninsula",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--130826-waypoint-icon.png",
+  "x": 3221,
+  "y": 125,
+  "z": 741,
+  "r": 254,
+  "g": 0,
+  "b": 246,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

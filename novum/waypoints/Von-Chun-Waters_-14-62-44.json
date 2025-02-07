@@ -1,0 +1,22 @@
+{
+  "id": "Von-Chun-Waters_-14-62-44",
+  "name": "Von Chun Waters",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5054623-waypoint-icon.png",
+  "x": -14,
+  "y": 62,
+  "z": -44,
+  "r": 178,
+  "g": 223,
+  "b": 97,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

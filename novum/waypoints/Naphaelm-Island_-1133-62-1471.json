@@ -1,0 +1,22 @@
+{
+  "id": "Naphaelm-Island_-1133-62-1471",
+  "name": "Naphaelm Island",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9912863-waypoint-icon.png",
+  "x": -1133,
+  "y": 62,
+  "z": 1471,
+  "r": 104,
+  "g": 189,
+  "b": 225,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

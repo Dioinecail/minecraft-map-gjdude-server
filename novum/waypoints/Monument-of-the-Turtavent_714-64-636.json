@@ -1,0 +1,22 @@
+{
+  "id": "Monument-of-the-Turtavent_714-64-636",
+  "name": "Monument of the Turtavent",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8077478-waypoint-icon.png",
+  "x": 714,
+  "y": 64,
+  "z": 636,
+  "r": 132,
+  "g": 191,
+  "b": 90,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Red-Tail_39-66-966",
+  "name": "Red Tail",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--122093-waypoint-icon.png",
+  "x": 39,
+  "y": 66,
+  "z": 966,
+  "r": 254,
+  "g": 35,
+  "b": 19,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

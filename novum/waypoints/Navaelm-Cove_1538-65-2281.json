@@ -1,0 +1,22 @@
+{
+  "id": "Navaelm-Cove_1538-65-2281",
+  "name": "Navaelm Cove",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9912607-waypoint-icon.png",
+  "x": 1538,
+  "y": 65,
+  "z": 2281,
+  "r": 104,
+  "g": 190,
+  "b": 225,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

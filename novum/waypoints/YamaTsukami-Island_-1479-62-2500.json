@@ -1,0 +1,22 @@
+{
+  "id": "YamaTsukami-Island_-1479-62-2500",
+  "name": "YamaTsukami Island",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--3283524-waypoint-icon.png",
+  "x": -1479,
+  "y": 62,
+  "z": 2500,
+  "r": 205,
+  "g": 229,
+  "b": 188,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

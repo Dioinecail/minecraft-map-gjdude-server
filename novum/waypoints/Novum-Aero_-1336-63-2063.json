@@ -1,0 +1,22 @@
+{
+  "id": "Novum-Aero_-1336-63-2063",
+  "name": "Novum Aero",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--6368020-waypoint-icon.png",
+  "x": -1336,
+  "y": 63,
+  "z": 2063,
+  "r": 158,
+  "g": 212,
+  "b": 236,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

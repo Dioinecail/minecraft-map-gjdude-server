@@ -1,0 +1,22 @@
+{
+  "id": "Navidad-Novaelm_-488-68-3298",
+  "name": "Navidad Novaelm",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9912607-waypoint-icon.png",
+  "x": -488,
+  "y": 68,
+  "z": 3298,
+  "r": 104,
+  "g": 190,
+  "b": 225,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

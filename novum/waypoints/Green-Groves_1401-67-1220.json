@@ -1,0 +1,22 @@
+{
+  "id": "Green-Groves_1401-67-1220",
+  "name": "Green Groves",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--11288467-waypoint-icon.png",
+  "x": 1401,
+  "y": 67,
+  "z": 1220,
+  "r": 83,
+  "g": 192,
+  "b": 109,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

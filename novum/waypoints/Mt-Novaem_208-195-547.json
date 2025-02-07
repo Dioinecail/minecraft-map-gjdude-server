@@ -1,0 +1,22 @@
+{
+  "id": "Mt-Novaem_208-195-547",
+  "name": "Mt. Novaem",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--2203839-waypoint-icon.png",
+  "x": 208,
+  "y": 195,
+  "z": -547,
+  "r": 222,
+  "g": 95,
+  "b": 65,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Mt-Krakatoa_-300-108-3084",
+  "name": "Mt. Krakatoa",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--6368020-waypoint-icon.png",
+  "x": -300,
+  "y": 108,
+  "z": 3084,
+  "r": 158,
+  "g": 212,
+  "b": 236,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

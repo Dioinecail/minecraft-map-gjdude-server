@@ -1,0 +1,22 @@
+{
+  "id": "Andesite-Valley_2148-62-2179",
+  "name": "Andesite Valley",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--6368020-waypoint-icon.png",
+  "x": 2148,
+  "y": 62,
+  "z": 2179,
+  "r": 158,
+  "g": 212,
+  "b": 236,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

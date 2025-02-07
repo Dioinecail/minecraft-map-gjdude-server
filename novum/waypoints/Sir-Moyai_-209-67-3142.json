@@ -1,0 +1,22 @@
+{
+  "id": "Sir-Moyai_-209-67-3142",
+  "name": "Sir Moyai",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9387789-waypoint-icon.png",
+  "x": -209,
+  "y": 67,
+  "z": 3142,
+  "r": 112,
+  "g": 192,
+  "b": 243,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

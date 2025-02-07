@@ -1,0 +1,22 @@
+{
+  "id": "Novuborea-Portal_179-63-226",
+  "name": "Novuborea Portal",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--984790-waypoint-icon.png",
+  "x": 179,
+  "y": 63,
+  "z": 226,
+  "r": 240,
+  "g": 249,
+  "b": 42,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Dolphino-Island_1244-64-967",
+  "name": "Dolphino Island",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--2365443-waypoint-icon.png",
+  "x": 1244,
+  "y": 64,
+  "z": 967,
+  "r": 219,
+  "g": 231,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

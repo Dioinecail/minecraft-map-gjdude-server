@@ -1,0 +1,22 @@
+{
+  "id": "Widow-s-Valley_1573-62-2378",
+  "name": "Widow\u0027s Valley",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--11337305-waypoint-icon.png",
+  "x": 1573,
+  "y": 62,
+  "z": 2378,
+  "r": 83,
+  "g": 1,
+  "b": 167,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

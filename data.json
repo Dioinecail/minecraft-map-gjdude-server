@@ -419,6 +419,690 @@
 			"name":"Witches\u0027 Circle",
 			"owner":"gjdude",
 			"id":"Witches-Circle_580-68-53"
+		},
+		{
+			"x":724,
+			"y":-1795,
+			"elevation":62,
+			"color":"rgb(186, 43, 39)",
+			"name":"724,-1795",
+			"owner":"novum",
+			"id":"724-1795_724-62-1795"
+		},
+		{
+			"x":943,
+			"y":178,
+			"elevation":65,
+			"color":"rgb(76, 168, 90)",
+			"name":"Adler\u0027s Island",
+			"owner":"novum",
+			"id":"Adler-s-Island_943-65-178"
+		},
+		{
+			"x":2148,
+			"y":2179,
+			"elevation":62,
+			"color":"rgb(158, 212, 236)",
+			"name":"Andesite Valley",
+			"owner":"novum",
+			"id":"Andesite-Valley_2148-62-2179"
+		},
+		{
+			"x":2001,
+			"y":2235,
+			"elevation":71,
+			"color":"rgb(128, 162, 254)",
+			"name":"Andesite Vein",
+			"owner":"novum",
+			"id":"Andesite-Vein_2001-71-2235"
+		},
+		{
+			"x":-688,
+			"y":1602,
+			"elevation":77,
+			"color":"rgb(219, 231, 253)",
+			"name":"Atlantis Novaem",
+			"owner":"novum",
+			"id":"Atlantis-Novaem_-688-77-1602"
+		},
+		{
+			"x":1012,
+			"y":1775,
+			"elevation":63,
+			"color":"rgb(222, 240, 205)",
+			"name":"Blackwater Graves",
+			"owner":"novum",
+			"id":"Blackwater-Graves_1012-63-1775"
+		},
+		{
+			"x":-2180,
+			"y":2980,
+			"elevation":81,
+			"color":"rgb(146, 175, 254)",
+			"name":"Casa Novaelm",
+			"owner":"novum",
+			"id":"Casa-Novaelm_-2180-81-2980"
+		},
+		{
+			"x":625,
+			"y":1465,
+			"elevation":62,
+			"color":"rgb(254, 0, 216)",
+			"name":"Cherry Drop Falls",
+			"owner":"novum",
+			"id":"Cherry-Drop-Falls_625-62-1465"
+		},
+		{
+			"x":37,
+			"y":3046,
+			"elevation":64,
+			"color":"rgb(104, 190, 225)",
+			"name":"Chest of Novthema",
+			"owner":"novum",
+			"id":"Chest-of-Novthema_37-64-3046"
+		},
+		{
+			"x":-1070,
+			"y":2259,
+			"elevation":63,
+			"color":"rgb(158, 212, 236)",
+			"name":"Coast Serenity",
+			"owner":"novum",
+			"id":"Coast-Serenity_-1070-63-2259"
+		},
+		{
+			"x":-2395,
+			"y":1581,
+			"elevation":62,
+			"color":"rgb(158, 212, 236)",
+			"name":"Delta Novaelm Cape",
+			"owner":"novum",
+			"id":"Delta-Novaelm-Cape_-2395-62-1581"
+		},
+		{
+			"x":1244,
+			"y":967,
+			"elevation":64,
+			"color":"rgb(219, 231, 253)",
+			"name":"Dolphino Island",
+			"owner":"novum",
+			"id":"Dolphino-Island_1244-64-967"
+		},
+		{
+			"x":50,
+			"y":-921,
+			"elevation":82,
+			"color":"rgb(158, 212, 236)",
+			"name":"Erecta Island",
+			"owner":"novum",
+			"id":"Erecta-Island_50-82-921"
+		},
+		{
+			"x":-344,
+			"y":2923,
+			"elevation":64,
+			"color":"rgb(219, 231, 253)",
+			"name":"Gaia\u0027s Hole",
+			"owner":"novum",
+			"id":"Gaia-s-Hole_-344-64-2923"
+		},
+		{
+			"x":1401,
+			"y":1220,
+			"elevation":67,
+			"color":"rgb(83, 192, 109)",
+			"name":"Green Groves",
+			"owner":"novum",
+			"id":"Green-Groves_1401-67-1220"
+		},
+		{
+			"x":1441,
+			"y":808,
+			"elevation":62,
+			"color":"rgb(132, 191, 90)",
+			"name":"Hamburger County",
+			"owner":"novum",
+			"id":"Hamburger-County_1441-62-808"
+		},
+		{
+			"x":1754,
+			"y":2018,
+			"elevation":63,
+			"color":"rgb(219, 231, 253)",
+			"name":"Hand of Navaelm",
+			"owner":"novum",
+			"id":"Hand-of-Navaelm_1754-63-2018"
+		},
+		{
+			"x":924,
+			"y":646,
+			"elevation":99,
+			"color":"rgb(132, 191, 90)",
+			"name":"Hilt Point",
+			"owner":"novum",
+			"id":"Hilt-Point_924-99-646"
+		},
+		{
+			"x":58,
+			"y":932,
+			"elevation":61,
+			"color":"rgb(0, 254, 163)",
+			"name":"House of the Green",
+			"owner":"novum",
+			"id":"House-of-the-Green_58-61-932"
+		},
+		{
+			"x":140,
+			"y":1708,
+			"elevation":64,
+			"color":"rgb(158, 212, 236)",
+			"name":"Jehuty River",
+			"owner":"novum",
+			"id":"Jehuty-River_140-64-1708"
+		},
+		{
+			"x":511,
+			"y":86,
+			"elevation":84,
+			"color":"rgb(0, 253, 246)",
+			"name":"Kneeling Man",
+			"owner":"novum",
+			"id":"Kneeling-Man_511-84-86"
+		},
+		{
+			"x":-3405,
+			"y":1253,
+			"elevation":134,
+			"color":"rgb(224, 177, 49)",
+			"name":"Lolifico Terrain?",
+			"owner":"novum",
+			"id":"Lolifico-Terrain-_-3405-134-1253"
+		},
+		{
+			"x":1357,
+			"y":1632,
+			"elevation":63,
+			"color":"rgb(0, 254, 175)",
+			"name":"Meuse River",
+			"owner":"novum",
+			"id":"Meuse-River_1357-63-1632"
+		},
+		{
+			"x":906,
+			"y":1057,
+			"elevation":62,
+			"color":"rgb(120, 226, 123)",
+			"name":"Monarach Fields",
+			"owner":"novum",
+			"id":"Monarach-Fields_906-62-1057"
+		},
+		{
+			"x":714,
+			"y":636,
+			"elevation":64,
+			"color":"rgb(132, 191, 90)",
+			"name":"Monument of the Turtavent",
+			"owner":"novum",
+			"id":"Monument-of-the-Turtavent_714-64-636"
+		},
+		{
+			"x":-300,
+			"y":3084,
+			"elevation":108,
+			"color":"rgb(158, 212, 236)",
+			"name":"Mt. Krakatoa",
+			"owner":"novum",
+			"id":"Mt-Krakatoa_-300-108-3084"
+		},
+		{
+			"x":208,
+			"y":-547,
+			"elevation":195,
+			"color":"rgb(222, 95, 65)",
+			"name":"Mt. Novaem",
+			"owner":"novum",
+			"id":"Mt-Novaem_208-195-547"
+		},
+		{
+			"x":-1133,
+			"y":1471,
+			"elevation":62,
+			"color":"rgb(104, 189, 225)",
+			"name":"Naphaelm Island",
+			"owner":"novum",
+			"id":"Naphaelm-Island_-1133-62-1471"
+		},
+		{
+			"x":1538,
+			"y":2281,
+			"elevation":65,
+			"color":"rgb(104, 190, 225)",
+			"name":"Navaelm Cove",
+			"owner":"novum",
+			"id":"Navaelm-Cove_1538-65-2281"
+		},
+		{
+			"x":576,
+			"y":534,
+			"elevation":62,
+			"color":"rgb(104, 190, 225)",
+			"name":"Navaelm Passage",
+			"owner":"novum",
+			"id":"Navaelm-Passage_576-62-534"
+		},
+		{
+			"x":1590,
+			"y":2159,
+			"elevation":62,
+			"color":"rgb(134, 185, 233)",
+			"name":"Navaelm",
+			"owner":"novum",
+			"id":"Navaelm_1590-62-2159"
+		},
+		{
+			"x":-488,
+			"y":3298,
+			"elevation":68,
+			"color":"rgb(104, 190, 225)",
+			"name":"Navidad Novaelm",
+			"owner":"novum",
+			"id":"Navidad-Novaelm_-488-68-3298"
+		},
+		{
+			"x":2886,
+			"y":756,
+			"elevation":63,
+			"color":"rgb(134, 1, 175)",
+			"name":"Nether Portal 1",
+			"owner":"novum",
+			"id":"Nether-Portal-1_2886-63-756"
+		},
+		{
+			"x":1633,
+			"y":1745,
+			"elevation":90,
+			"color":"rgb(1, 255, 214)",
+			"name":"New Delta",
+			"owner":"novum",
+			"id":"New-Delta_1633-90-1745"
+		},
+		{
+			"x":1865,
+			"y":2223,
+			"elevation":135,
+			"color":"rgb(3, 223, 130)",
+			"name":"New Emerald Delta",
+			"owner":"novum",
+			"id":"New-Emerald-Delta_1865-135-2223"
+		},
+		{
+			"x":1490,
+			"y":1288,
+			"elevation":62,
+			"color":"rgb(104, 190, 225)",
+			"name":"Nile of the She Eater",
+			"owner":"novum",
+			"id":"Nile-of-the-She-Eater_1490-62-1288"
+		},
+		{
+			"x":-2088,
+			"y":2802,
+			"elevation":62,
+			"color":"rgb(104, 190, 225)",
+			"name":"Novaelm Autumn Anchor",
+			"owner":"novum",
+			"id":"Novaelm-Autumn-Anchor_-2088-62-2802"
+		},
+		{
+			"x":659,
+			"y":-149,
+			"elevation":63,
+			"color":"rgb(104, 190, 225)",
+			"name":"Novaelm Geode",
+			"owner":"novum",
+			"id":"Novaelm-Geode_659-63-149"
+		},
+		{
+			"x":-1528,
+			"y":4065,
+			"elevation":62,
+			"color":"rgb(4, 122, 200)",
+			"name":"Novaelm Tropica",
+			"owner":"novum",
+			"id":"Novaelm-Tropica_-1528-62-4065"
+		},
+		{
+			"x":-1307,
+			"y":3662,
+			"elevation":117,
+			"color":"rgb(219, 231, 253)",
+			"name":"Novaeluru Hill",
+			"owner":"novum",
+			"id":"Novaeluru-Hill_-1307-117-3662"
+		},
+		{
+			"x":179,
+			"y":226,
+			"elevation":63,
+			"color":"rgb(240, 249, 42)",
+			"name":"Novuborea Portal",
+			"owner":"novum",
+			"id":"Novuborea-Portal_179-63-226"
+		},
+		{
+			"x":-1336,
+			"y":2063,
+			"elevation":63,
+			"color":"rgb(158, 212, 236)",
+			"name":"Novum Aero",
+			"owner":"novum",
+			"id":"Novum-Aero_-1336-63-2063"
+		},
+		{
+			"x":-1139,
+			"y":360,
+			"elevation":82,
+			"color":"rgb(158, 212, 236)",
+			"name":"Novumchud",
+			"owner":"novum",
+			"id":"Novumchud_-1139-82-360"
+		},
+		{
+			"x":-1947,
+			"y":2308,
+			"elevation":63,
+			"color":"rgb(160, 213, 233)",
+			"name":"Novumorea Aero",
+			"owner":"novum",
+			"id":"Novumorea-Aero_-1947-63-2308"
+		},
+		{
+			"x":-1175,
+			"y":2200,
+			"elevation":65,
+			"color":"rgb(184, 228, 190)",
+			"name":"Novus Coast",
+			"owner":"novum",
+			"id":"Novus-Coast_-1175-65-2200"
+		},
+		{
+			"x":1864,
+			"y":2244,
+			"elevation":133,
+			"color":"rgb(146, 175, 254)",
+			"name":"Old Highfields Church",
+			"owner":"novum",
+			"id":"Old-Highfields-Church_1864-133-2244"
+		},
+		{
+			"x":-378,
+			"y":2582,
+			"elevation":62,
+			"color":"rgb(93, 85, 116)",
+			"name":"Old Ruins",
+			"owner":"novum",
+			"id":"Old-Ruins_-378-62-2582"
+		},
+		{
+			"x":-399,
+			"y":2984,
+			"elevation":65,
+			"color":"rgb(158, 212, 236)",
+			"name":"Old Slave Grounds Novaelm",
+			"owner":"novum",
+			"id":"Old-Slave-Grounds-Novaelm_-399-65-2984"
+		},
+		{
+			"x":-515,
+			"y":3170,
+			"elevation":63,
+			"color":"rgb(188, 227, 210)",
+			"name":"Old World Novaelm",
+			"owner":"novum",
+			"id":"Old-World-Novaelm_-515-63-3170"
+		},
+		{
+			"x":616,
+			"y":364,
+			"elevation":92,
+			"color":"rgb(158, 212, 236)",
+			"name":"Pequain",
+			"owner":"novum",
+			"id":"Pequain_616-92-364"
+		},
+		{
+			"x":-596,
+			"y":3312,
+			"elevation":93,
+			"color":"rgb(12, 245, 144)",
+			"name":"Phallic Delta",
+			"owner":"novum",
+			"id":"Phallic-Delta_-596-93-3312"
+		},
+		{
+			"x":-68,
+			"y":-305,
+			"elevation":62,
+			"color":"rgb(34, 208, 161)",
+			"name":"Point Nemo",
+			"owner":"novum",
+			"id":"Point-Nemo_-68-62-305"
+		},
+		{
+			"x":974,
+			"y":924,
+			"elevation":67,
+			"color":"rgb(150, 197, 234)",
+			"name":"Point Novaelm",
+			"owner":"novum",
+			"id":"Point-Novaelm_974-67-924"
+		},
+		{
+			"x":630,
+			"y":-174,
+			"elevation":63,
+			"color":"rgb(158, 212, 236)",
+			"name":"Port Drift",
+			"owner":"novum",
+			"id":"Port-Drift_630-63-174"
+		},
+		{
+			"x":3221,
+			"y":741,
+			"elevation":125,
+			"color":"rgb(254, 0, 246)",
+			"name":"Raine Peninsula",
+			"owner":"novum",
+			"id":"Raine-Peninsula_3221-125-741"
+		},
+		{
+			"x":39,
+			"y":966,
+			"elevation":66,
+			"color":"rgb(254, 35, 19)",
+			"name":"Red Tail",
+			"owner":"novum",
+			"id":"Red-Tail_39-66-966"
+		},
+		{
+			"x":1583,
+			"y":1567,
+			"elevation":75,
+			"color":"rgb(2, 71, 254)",
+			"name":"Seibaland, USA",
+			"owner":"novum",
+			"id":"Seibaland-USA_1583-75-1567"
+		},
+		{
+			"x":-209,
+			"y":3142,
+			"elevation":67,
+			"color":"rgb(112, 192, 243)",
+			"name":"Sir Moyai",
+			"owner":"novum",
+			"id":"Sir-Moyai_-209-67-3142"
+		},
+		{
+			"x":-6188,
+			"y":4756,
+			"elevation":243,
+			"color":"rgb(253, 250, 0)",
+			"name":"SlavLand",
+			"owner":"novum",
+			"id":"SlavLand_-6188-243-4756"
+		},
+		{
+			"x":1035,
+			"y":2287,
+			"elevation":62,
+			"color":"rgb(128, 162, 254)",
+			"name":"Southern Gate",
+			"owner":"novum",
+			"id":"Southern-Gate_1035-62-2287"
+		},
+		{
+			"x":1326,
+			"y":2609,
+			"elevation":62,
+			"color":"rgb(225, 148, 239)",
+			"name":"Southern Novaelm",
+			"owner":"novum",
+			"id":"Southern-Novaelm_1326-62-2609"
+		},
+		{
+			"x":1321,
+			"y":2457,
+			"elevation":63,
+			"color":"rgb(146, 175, 254)",
+			"name":"Southern Port Novaelm",
+			"owner":"novum",
+			"id":"Southern-Port-Novaelm_1321-63-2457"
+		},
+		{
+			"x":1441,
+			"y":1096,
+			"elevation":75,
+			"color":"rgb(158, 212, 236)",
+			"name":"Spinning Bee River",
+			"owner":"novum",
+			"id":"Spinning-Bee-River_1441-75-1096"
+		},
+		{
+			"x":96,
+			"y":264,
+			"elevation":73,
+			"color":"rgb(104, 190, 225)",
+			"name":"Spire of Novaelm",
+			"owner":"novum",
+			"id":"Spire-of-Novaelm_96-73-264"
+		},
+		{
+			"x":1106,
+			"y":1031,
+			"elevation":62,
+			"color":"rgb(96, 186, 211)",
+			"name":"Standing Bear",
+			"owner":"novum",
+			"id":"Standing-Bear_1106-62-1031"
+		},
+		{
+			"x":-3572,
+			"y":2379,
+			"elevation":62,
+			"color":"rgb(234, 180, 65)",
+			"name":"star base???",
+			"owner":"novum",
+			"id":"star-base-_-3572-62-2379"
+		},
+		{
+			"x":25,
+			"y":313,
+			"elevation":139,
+			"color":"rgb(187, 206, 222)",
+			"name":"Tower of Navealm",
+			"owner":"novum",
+			"id":"Tower-of-Navealm_25-139-313"
+		},
+		{
+			"x":1298,
+			"y":492,
+			"elevation":62,
+			"color":"rgb(30, 157, 211)",
+			"name":"Trifecta Passage",
+			"owner":"novum",
+			"id":"Trifecta-Passage_1298-62-492"
+		},
+		{
+			"x":944,
+			"y":1502,
+			"elevation":62,
+			"color":"rgb(0, 232, 253)",
+			"name":"Tririt River",
+			"owner":"novum",
+			"id":"Tririt-River_944-62-1502"
+		},
+		{
+			"x":1542,
+			"y":1629,
+			"elevation":63,
+			"color":"rgb(0, 184, 243)",
+			"name":"TypeMoon Cliffs",
+			"owner":"novum",
+			"id":"TypeMoon-Cliffs_1542-63-1629"
+		},
+		{
+			"x":-321,
+			"y":2654,
+			"elevation":68,
+			"color":"rgb(19, 155, 250)",
+			"name":"Uoo\u0027ooow Island",
+			"owner":"novum",
+			"id":"Uoo-ooow-Island_-321-68-2654"
+		},
+		{
+			"x":-14,
+			"y":-44,
+			"elevation":62,
+			"color":"rgb(178, 223, 97)",
+			"name":"Von Chun Waters",
+			"owner":"novum",
+			"id":"Von-Chun-Waters_-14-62-44"
+		},
+		{
+			"x":816,
+			"y":741,
+			"elevation":93,
+			"color":"rgb(158, 212, 236)",
+			"name":"Well of Remembrance",
+			"owner":"novum",
+			"id":"Well-of-Remembrance_816-93-741"
+		},
+		{
+			"x":903,
+			"y":785,
+			"elevation":64,
+			"color":"rgb(137, 100, 199)",
+			"name":"Widow\u0027s Hole",
+			"owner":"novum",
+			"id":"Widow-s-Hole_903-64-785"
+		},
+		{
+			"x":1573,
+			"y":2378,
+			"elevation":62,
+			"color":"rgb(83, 1, 167)",
+			"name":"Widow\u0027s Valley",
+			"owner":"novum",
+			"id":"Widow-s-Valley_1573-62-2378"
+		},
+		{
+			"x":-1479,
+			"y":2500,
+			"elevation":62,
+			"color":"rgb(205, 229, 188)",
+			"name":"YamaTsukami Island",
+			"owner":"novum",
+			"id":"YamaTsukami-Island_-1479-62-2500"
 		}
 	]
 }

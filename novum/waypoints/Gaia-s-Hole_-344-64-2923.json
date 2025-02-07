@@ -1,0 +1,22 @@
+{
+  "id": "Gaia-s-Hole_-344-64-2923",
+  "name": "Gaia\u0027s Hole",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--2365443-waypoint-icon.png",
+  "x": -344,
+  "y": 64,
+  "z": 2923,
+  "r": 219,
+  "g": 231,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

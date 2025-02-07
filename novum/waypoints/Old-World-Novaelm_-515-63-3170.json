@@ -1,0 +1,22 @@
+{
+  "id": "Old-World-Novaelm_-515-63-3170",
+  "name": "Old World Novaelm",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--4398126-waypoint-icon.png",
+  "x": -515,
+  "y": 63,
+  "z": 3170,
+  "r": 188,
+  "g": 227,
+  "b": 210,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
