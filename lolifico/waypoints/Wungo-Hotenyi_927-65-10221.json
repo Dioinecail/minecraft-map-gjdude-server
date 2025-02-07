@@ -1,0 +1,22 @@
+{
+  "id": "Wungo-Hotenyi_927-65-10221",
+  "name": "Wungo-Hotenyi",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--2585700-waypoint-icon.png",
+  "x": 927,
+  "y": 65,
+  "z": 10221,
+  "r": 216,
+  "g": 139,
+  "b": 156,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

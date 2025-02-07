@@ -1,0 +1,22 @@
+{
+  "id": "Kaimasamo_936-225-4163",
+  "name": "Kaimasamo",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5695016-waypoint-icon.png",
+  "x": 936,
+  "y": 225,
+  "z": -4163,
+  "r": 169,
+  "g": 25,
+  "b": 216,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

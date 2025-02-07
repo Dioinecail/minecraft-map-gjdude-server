@@ -1,0 +1,23 @@
+{
+  "id": "Bariostas_727-278-2602",
+  "name": "Bariostas",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--130271-waypoint-icon.png",
+  "x": 727,
+  "y": 278,
+  "z": -2602,
+  "r": 254,
+  "g": 3,
+  "b": 33,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "create_dd:ponder",
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": true,
+  "iconColor": -1,
+  "customIconColor": false
+}

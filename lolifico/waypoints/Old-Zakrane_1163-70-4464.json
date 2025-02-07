@@ -1,0 +1,22 @@
+{
+  "id": "Old-Zakrane_1163-70-4464",
+  "name": "Old Zakrane",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16657170-waypoint-icon.png",
+  "x": 1163,
+  "y": 70,
+  "z": -4464,
+  "r": 1,
+  "g": 212,
+  "b": 238,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": true,
+  "iconColor": -1,
+  "customIconColor": false
+}

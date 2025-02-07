@@ -1,0 +1,22 @@
+{
+  "id": "water-temple_-8511-63-2435",
+  "name": "water temple",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16713730-waypoint-icon.png",
+  "x": -8511,
+  "y": 63,
+  "z": 2435,
+  "r": 0,
+  "g": 247,
+  "b": 254,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": true,
+  "iconColor": -1,
+  "customIconColor": false
+}

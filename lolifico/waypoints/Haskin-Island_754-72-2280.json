@@ -1,0 +1,22 @@
+{
+  "id": "Haskin-Island_754-72-2280",
+  "name": "Haskin Island",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10177915-waypoint-icon.png",
+  "x": 754,
+  "y": 72,
+  "z": -2280,
+  "r": 100,
+  "g": 178,
+  "b": 133,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": true,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "THE-ZELENSKY_-1605-63-3715",
+  "name": "THE ZELENSKY",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8286059-waypoint-icon.png",
+  "x": -1605,
+  "y": 63,
+  "z": 3715,
+  "r": 129,
+  "g": 144,
+  "b": 149,
+  "enable": true,
+  "type": "Normal",
+  "origin": "temp",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": true,
+  "iconColor": -1,
+  "customIconColor": false
+}

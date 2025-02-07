@@ -1,0 +1,22 @@
+{
+  "id": "Zangorola-Village_668-75-7459",
+  "name": "Zangorola Village",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8979288-waypoint-icon.png",
+  "x": 668,
+  "y": 75,
+  "z": 7459,
+  "r": 118,
+  "g": 252,
+  "b": 168,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

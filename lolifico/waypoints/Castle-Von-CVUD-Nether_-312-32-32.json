@@ -1,0 +1,22 @@
+{
+  "id": "Castle-Von-CVUD-Nether_-312-32-32",
+  "name": "Castle Von CVUD Nether",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7994961-waypoint-icon.png",
+  "x": -312,
+  "y": 32,
+  "z": -32,
+  "r": 134,
+  "g": 1,
+  "b": 175,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": true,
+  "iconColor": -1,
+  "customIconColor": false
+}

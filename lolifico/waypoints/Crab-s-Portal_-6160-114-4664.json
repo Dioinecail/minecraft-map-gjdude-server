@@ -1,0 +1,22 @@
+{
+  "id": "Crab-s-Portal_-6160-114-4664",
+  "name": "Crab\u0027s Portal",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7994961-waypoint-icon.png",
+  "x": -6160,
+  "y": 114,
+  "z": 4664,
+  "r": 134,
+  "g": 1,
+  "b": 175,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

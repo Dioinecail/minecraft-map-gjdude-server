@@ -1,0 +1,22 @@
+{
+  "id": "Kushiso-The-Lostshells_787-226-3660",
+  "name": "Kushiso \u0026 The Lostshells",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--4098819-waypoint-icon.png",
+  "x": 787,
+  "y": 226,
+  "z": -3660,
+  "r": 193,
+  "g": 116,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": true,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Khanzad_618-69-7737",
+  "name": "Khanzad",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5954191-waypoint-icon.png",
+  "x": 618,
+  "y": 69,
+  "z": 7737,
+  "r": 165,
+  "g": 37,
+  "b": 113,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

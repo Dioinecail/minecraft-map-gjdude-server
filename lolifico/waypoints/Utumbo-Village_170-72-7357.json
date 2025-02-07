@@ -1,0 +1,22 @@
+{
+  "id": "Utumbo-Village_170-72-7357",
+  "name": "Utumbo Village",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--13527225-waypoint-icon.png",
+  "x": 170,
+  "y": 72,
+  "z": 7357,
+  "r": 49,
+  "g": 151,
+  "b": 71,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

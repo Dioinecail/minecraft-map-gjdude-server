@@ -1,0 +1,22 @@
+{
+  "id": "Mulusoldo-Village_1102-65-10036",
+  "name": "Mulusoldo Village",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--4247123-waypoint-icon.png",
+  "x": 1102,
+  "y": 65,
+  "z": 10036,
+  "r": 191,
+  "g": 49,
+  "b": 173,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
