@@ -11,8 +11,14 @@ var currentZoom = 1;
 
 var isPointerDown = false;
 var mapRoot = document.querySelector('.map-root');
-var body = document.querySelector('body');
+var body = document.querySelector('.body-root');
+var menuRoot = document.querySelector('.menu-root');
 var mapJson = null;
+
+var menuState = false;
+var waypoints = {};
+
+var isCursorHovering = false;
 
 
 
@@ -46,6 +52,15 @@ async function loadMap() {
                     });
             }
         });
+
+    document.querySelector('.menu-button').addEventListener('click', (evt) => {
+        menuState = !menuState;
+
+        if (menuState)
+            menuRoot.classList.remove('hidden');
+        else
+            menuRoot.classList.add('hidden');
+    });
 }
 
 function fetchMaps() {
@@ -89,13 +104,79 @@ function createWaypoint(waypoint) {
     div.outerHTML = waypointHtml.replace('{waypoint-id}', waypointId);
 
     let waypointDiv = document.querySelector(`#${waypointId}`);
+    let text = `${name}\r\nWaypoint by: ${owner}\r\nCoords: [x:${x}, z:${y}, y:${elevation}]`;
 
-    waypointDiv.querySelector('.waypoint-text').textContent = `${name}\r\nWaypoint by: ${owner}\r\nCoords: [x:${x}, z:${y}, y:${elevation}]`;
+    waypointDiv.querySelector('.waypoint-text').textContent = text;
     waypointDiv.querySelector('.waypoint-position').style.backgroundColor = color;
     waypointDiv.querySelector('.waypoint-text').style.color = color;
+    waypointDiv.querySelector('.waypoint-text').style.display = 'none';
+
     waypointDiv.style.position = 'absolute';
     waypointDiv.style.left = `${x}px`;
     waypointDiv.style.top = `${y}px`;
+    waypointDiv.waypointText = text;
+    waypointDiv.classList.add(owner);
+
+    if (!(owner in waypoints)) {
+        waypoints[owner] = {};
+        waypoints[owner].waypoints = [];
+        waypoints[owner].state = false;
+
+        let menuRoot = document.querySelector('.menu-root');
+        let wpGroupOptionDiv = document.createElement('div');
+
+        wpGroupOptionDiv.classList.add('waypoints-group-option');
+        wpGroupOptionDiv.textContent = owner;
+        wpGroupOptionDiv.addEventListener('click', (evt) => {
+            waypoints[owner].state = !waypoints[owner].state;
+
+            let newState = waypoints[owner].state;
+
+            if (newState)
+                wpGroupOptionDiv.classList.add('selected')
+            else
+                wpGroupOptionDiv.classList.remove('selected')
+
+            let foundWaypoints = document.querySelectorAll(`.${owner}`);
+
+            foundWaypoints.forEach(w => {
+                w.querySelector('.waypoint-text').style.display = newState ? 'flex' : 'none';
+            })
+
+            document.querySelector(`#${owner}-group`).style.display = newState ? 'flex' : 'none';
+        });
+
+        menuRoot.appendChild(wpGroupOptionDiv);
+
+        let waypointsGroup = document.createElement('div');
+
+        waypointsGroup.classList.add('waypoints-group');
+        waypointsGroup.id = `${owner}-group`;
+
+        menuRoot.appendChild(waypointsGroup);
+    }
+
+    let wpData = {
+        waypoint: waypoint,
+        div: waypointDiv
+    };
+
+    let waypointsGroupDiv = menuRoot.querySelector(`#${owner}-group`);
+    let waypointOptionDiv = document.createElement('div');
+
+    waypointOptionDiv.classList.add('waypoint-option');
+    waypointsGroupDiv.appendChild(waypointOptionDiv);
+
+    waypointOptionDiv.textContent = name;
+    waypointOptionDiv.addEventListener('click', (evt) => {
+        currentMapPosition.x = -x;
+        currentMapPosition.y = -y;
+
+        mapRoot.style.left = `${currentMapPosition.x}px`;
+        mapRoot.style.top = `${currentMapPosition.y}px`;
+    });
+
+    waypoints[owner].waypoints.push(wpData);
 }
 
 function handlePointerDown(evt) {
@@ -118,6 +199,9 @@ function handlePointerMove(evt) {
 }
 
 function handleScroll(evt) {
+    if (isCursorHovering)
+        return;
+
     let zoom = evt.wheelDeltaY / 200;
     let sign = Math.sign(zoom / 10);
 
@@ -140,6 +224,17 @@ function handleScroll(evt) {
 
     body.style.zoom = currentZoom;
 }
+
+function handleMenuHoverEnter(evt) { 
+    isCursorHovering = true;
+}
+
+function handleMenuHoverExit(evt) {
+    isCursorHovering = false;
+}
+
+menuRoot.addEventListener('mouseenter', handleMenuHoverEnter);
+menuRoot.addEventListener('mouseleave', handleMenuHoverExit);
 
 loadMap();
 
