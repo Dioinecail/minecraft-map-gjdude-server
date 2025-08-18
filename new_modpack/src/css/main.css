@@ -1,0 +1,163 @@
+:root {
+
+}
+
+div {
+    font-family: 'Roboto';
+}
+
+body {
+    margin: 0;
+    background-color: #000;
+    overflow: hidden;
+}
+
+.body-root {
+    background-color: #000;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+.map-root {
+    position: absolute;
+    pointer-events: none;
+}
+
+.map-chunk {
+    width: 2048px;
+    height: 2048px;
+    pointer-events: none;
+}
+
+.map-chunk-image {
+    width: 2048px;
+    height: 2048px;
+    pointer-events: none;    
+    image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+    image-rendering: -moz-crisp-edges;          /* Firefox                        */
+    image-rendering: -o-crisp-edges;            /* Opera                          */
+    image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+    image-rendering: pixelated;                 /* Universal support since 2021   */
+    image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+    -ms-interpolation-mode: nearest-neighbor; 
+}
+
+.waypoint {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    z-index: 1;
+}
+
+.waypoint-text {
+    white-space: pre;
+    color: #FFF;
+    text-shadow: -0.3px -0.3px 0 #000, 0.3px -0.3px 0 #000, -0.3px 0.3px 0 #000, 0.3px 0.3px 0 #000;
+}
+
+.waypoint-position {
+    width: 5px;
+    height: 5px;
+    border-radius: 3.5px;
+    border: 1px solid #000;
+}
+
+.menu-button {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    width: 96px;
+    height: 32px;
+    border-radius: 6px;
+    background-color: #000000AA;
+    z-index: 99;
+    cursor: pointer;
+    color: #FFF;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-button:hover {
+    background-color: #202020AA;
+}
+
+.menu-button:active {
+    background-color: #505050AA;
+}
+
+.menu-root {
+    position: absolute;
+    z-index: 98;
+    right: 16px;
+    top: 64px;
+    bottom: 16px;
+    width: 450px;
+    background-color: #000000A0;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 16px;
+    opacity: 100%;
+    overflow: scroll;
+    scrollbar-width: none;
+    transition: all 0.15s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.menu-root.hidden {
+    right: -460px;
+    opacity: 0%;
+    transition: all 0.15s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.waypoints-group-option {
+    background-color: #ffffffA0;
+    color: #000;
+    border-radius: 8px;
+    height: 32px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
+    flex-shrink: 0;
+}
+
+.waypoints-group-option.selected {
+    background-color: #aaffffF0;
+}
+
+.waypoints-group-option:hover {
+    background-color: #ffffffF0;
+}
+
+.waypoints-group-option:active {
+    background-color: #aaffffF0;
+}
+
+.waypoints-group {
+    background-color: #aaaaaaA0;
+    display: none;
+    flex-direction: column;
+    gap: 8px;
+
+    border-radius: 6px;
+}
+
+.waypoint-option {
+    padding: 6px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.waypoint-option:hover {
+    background-color: #FFFFFF40;
+}
+
+.waypoint-option:active {
+    background-color: #FFFFFF70;
+}
