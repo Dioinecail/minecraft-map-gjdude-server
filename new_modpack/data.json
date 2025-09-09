@@ -1,129 +1,214 @@
 {
 	"map":[
 		{
-			"url":"./stitched1024/-11,-10.png",
-			"x":-11,
+			"url":"./stitched1024/-12,-10.png",
+			"x":-12,
 			"y":-10
 		},
 		{
-			"url":"./stitched1024/-11,-14.png",
-			"x":-11,
+			"url":"./stitched1024/-12,-14.png",
+			"x":-12,
 			"y":-14
 		},
 		{
-			"url":"./stitched1024/-11,-2.png",
-			"x":-11,
+			"url":"./stitched1024/-12,-2.png",
+			"x":-12,
 			"y":-2
 		},
 		{
-			"url":"./stitched1024/-11,-6.png",
-			"x":-11,
+			"url":"./stitched1024/-12,-6.png",
+			"x":-12,
 			"y":-6
 		},
 		{
-			"url":"./stitched1024/-11,2.png",
-			"x":-11,
+			"url":"./stitched1024/-12,2.png",
+			"x":-12,
 			"y":2
 		},
 		{
-			"url":"./stitched1024/-15,-10.png",
-			"x":-15,
+			"url":"./stitched1024/-12,6.png",
+			"x":-12,
+			"y":6
+		},
+		{
+			"url":"./stitched1024/-16,-10.png",
+			"x":-16,
 			"y":-10
 		},
 		{
-			"url":"./stitched1024/-15,-14.png",
-			"x":-15,
+			"url":"./stitched1024/-16,-14.png",
+			"x":-16,
 			"y":-14
 		},
 		{
-			"url":"./stitched1024/-15,-2.png",
-			"x":-15,
+			"url":"./stitched1024/-16,-2.png",
+			"x":-16,
 			"y":-2
 		},
 		{
-			"url":"./stitched1024/-15,-6.png",
-			"x":-15,
+			"url":"./stitched1024/-16,-6.png",
+			"x":-16,
 			"y":-6
 		},
 		{
-			"url":"./stitched1024/-15,2.png",
-			"x":-15,
+			"url":"./stitched1024/-16,2.png",
+			"x":-16,
 			"y":2
 		},
 		{
-			"url":"./stitched1024/-3,-10.png",
-			"x":-3,
+			"url":"./stitched1024/-16,6.png",
+			"x":-16,
+			"y":6
+		},
+		{
+			"url":"./stitched1024/-20,-10.png",
+			"x":-20,
 			"y":-10
 		},
 		{
-			"url":"./stitched1024/-3,-14.png",
-			"x":-3,
+			"url":"./stitched1024/-20,-14.png",
+			"x":-20,
 			"y":-14
 		},
 		{
-			"url":"./stitched1024/-3,-2.png",
-			"x":-3,
+			"url":"./stitched1024/-20,-2.png",
+			"x":-20,
 			"y":-2
 		},
 		{
-			"url":"./stitched1024/-3,-6.png",
-			"x":-3,
+			"url":"./stitched1024/-20,-6.png",
+			"x":-20,
 			"y":-6
 		},
 		{
-			"url":"./stitched1024/-3,2.png",
-			"x":-3,
+			"url":"./stitched1024/-20,2.png",
+			"x":-20,
 			"y":2
 		},
 		{
-			"url":"./stitched1024/-7,-10.png",
-			"x":-7,
+			"url":"./stitched1024/-20,6.png",
+			"x":-20,
+			"y":6
+		},
+		{
+			"url":"./stitched1024/-4,-10.png",
+			"x":-4,
 			"y":-10
 		},
 		{
-			"url":"./stitched1024/-7,-14.png",
-			"x":-7,
+			"url":"./stitched1024/-4,-14.png",
+			"x":-4,
 			"y":-14
 		},
 		{
-			"url":"./stitched1024/-7,-2.png",
-			"x":-7,
+			"url":"./stitched1024/-4,-2.png",
+			"x":-4,
 			"y":-2
 		},
 		{
-			"url":"./stitched1024/-7,-6.png",
-			"x":-7,
+			"url":"./stitched1024/-4,-6.png",
+			"x":-4,
 			"y":-6
 		},
 		{
-			"url":"./stitched1024/-7,2.png",
-			"x":-7,
+			"url":"./stitched1024/-4,2.png",
+			"x":-4,
 			"y":2
 		},
 		{
-			"url":"./stitched1024/1,-10.png",
-			"x":1,
+			"url":"./stitched1024/-4,6.png",
+			"x":-4,
+			"y":6
+		},
+		{
+			"url":"./stitched1024/-8,-10.png",
+			"x":-8,
 			"y":-10
 		},
 		{
-			"url":"./stitched1024/1,-14.png",
-			"x":1,
+			"url":"./stitched1024/-8,-14.png",
+			"x":-8,
 			"y":-14
 		},
 		{
-			"url":"./stitched1024/1,-2.png",
-			"x":1,
+			"url":"./stitched1024/-8,-2.png",
+			"x":-8,
 			"y":-2
 		},
 		{
-			"url":"./stitched1024/1,-6.png",
-			"x":1,
+			"url":"./stitched1024/-8,-6.png",
+			"x":-8,
 			"y":-6
 		},
 		{
-			"url":"./stitched1024/1,2.png",
-			"x":1,
+			"url":"./stitched1024/-8,2.png",
+			"x":-8,
 			"y":2
+		},
+		{
+			"url":"./stitched1024/-8,6.png",
+			"x":-8,
+			"y":6
+		},
+		{
+			"url":"./stitched1024/0,-10.png",
+			"x":0,
+			"y":-10
+		},
+		{
+			"url":"./stitched1024/0,-14.png",
+			"x":0,
+			"y":-14
+		},
+		{
+			"url":"./stitched1024/0,-2.png",
+			"x":0,
+			"y":-2
+		},
+		{
+			"url":"./stitched1024/0,-6.png",
+			"x":0,
+			"y":-6
+		},
+		{
+			"url":"./stitched1024/0,2.png",
+			"x":0,
+			"y":2
+		},
+		{
+			"url":"./stitched1024/0,6.png",
+			"x":0,
+			"y":6
+		},
+		{
+			"url":"./stitched1024/4,-10.png",
+			"x":4,
+			"y":-10
+		},
+		{
+			"url":"./stitched1024/4,-14.png",
+			"x":4,
+			"y":-14
+		},
+		{
+			"url":"./stitched1024/4,-2.png",
+			"x":4,
+			"y":-2
+		},
+		{
+			"url":"./stitched1024/4,-6.png",
+			"x":4,
+			"y":-6
+		},
+		{
+			"url":"./stitched1024/4,2.png",
+			"x":4,
+			"y":2
+		},
+		{
+			"url":"./stitched1024/4,6.png",
+			"x":4,
+			"y":6
 		}
 	],
 	"waypoints":[
@@ -936,6 +1021,627 @@
 			"name":"Thyzan Temple",
 			"owner":"lolifico",
 			"id":"Thyzan-Temple_-2176-63-4368"
+		},
+		{
+			"x":-5645,
+			"y":4,
+			"elevation":310,
+			"color":"rgb(159, 117, 248)",
+			"name":"Aerial Ace Florence",
+			"owner":"novum",
+			"id":"Aerial-Ace-Florence_-5645-310-4"
+		},
+		{
+			"x":-6627,
+			"y":-895,
+			"elevation":248,
+			"color":"rgb(1, 254, 197)",
+			"name":"Aerial Ace K2",
+			"owner":"novum",
+			"id":"Aerial-Ace-K2_-6627-248-895"
+		},
+		{
+			"x":-5993,
+			"y":-11,
+			"elevation":125,
+			"color":"rgb(1, 255, 214)",
+			"name":"Ancestral Step",
+			"owner":"novum",
+			"id":"Ancestral-Step_-5993-125-11"
+		},
+		{
+			"x":-6309,
+			"y":-978,
+			"elevation":77,
+			"color":"rgb(197, 56, 7)",
+			"name":"Ancient Geyser",
+			"owner":"novum",
+			"id":"Ancient-Geyser_-6309-77-978"
+		},
+		{
+			"x":-8371,
+			"y":-1199,
+			"elevation":66,
+			"color":"rgb(215, 167, 181)",
+			"name":"B.B Island",
+			"owner":"novum",
+			"id":"B-B-Island_-8371-66-1199"
+		},
+		{
+			"x":-5276,
+			"y":510,
+			"elevation":95,
+			"color":"rgb(12, 150, 207)",
+			"name":"Belkans",
+			"owner":"novum",
+			"id":"Belkans_-5276-95-510"
+		},
+		{
+			"x":-6665,
+			"y":2042,
+			"elevation":69,
+			"color":"rgb(215, 39, 44)",
+			"name":"Bradford City, U.S.A.",
+			"owner":"novum",
+			"id":"Bradford-City-U-S-A-_-6665-69-2042"
+		},
+		{
+			"x":-6280,
+			"y":-967,
+			"elevation":94,
+			"color":"rgb(123, 159, 96)",
+			"name":"Bullseye Outpost",
+			"owner":"novum",
+			"id":"Bullseye-Outpost_-6280-94-967"
+		},
+		{
+			"x":-8320,
+			"y":-539,
+			"elevation":133,
+			"color":"rgb(48, 219, 163)",
+			"name":"C-Side Lighthouse",
+			"owner":"novum",
+			"id":"C-Side-Lighthouse_-8320-133-539"
+		},
+		{
+			"x":-6093,
+			"y":-206,
+			"elevation":66,
+			"color":"rgb(242, 21, 112)",
+			"name":"Center",
+			"owner":"novum",
+			"id":"Center_-6093-66-206"
+		},
+		{
+			"x":-6872,
+			"y":-987,
+			"elevation":72,
+			"color":"rgb(60, 201, 119)",
+			"name":"Checkpoint Charlie",
+			"owner":"novum",
+			"id":"Checkpoint-Charlie_-6872-72-987"
+		},
+		{
+			"x":-5952,
+			"y":1428,
+			"elevation":63,
+			"color":"rgb(158, 212, 236)",
+			"name":"Chicxulub Crater",
+			"owner":"novum",
+			"id":"Chicxulub-Crater_-5952-63-1428"
+		},
+		{
+			"x":-6081,
+			"y":-1036,
+			"elevation":89,
+			"color":"rgb(216, 219, 194)",
+			"name":"Crescent Cape ",
+			"owner":"novum",
+			"id":"Crescent-Cape-_-6081-89-1036"
+		},
+		{
+			"x":-2303,
+			"y":575,
+			"elevation":71,
+			"color":"rgb(28, 238, 35)",
+			"name":"Death 10:27:43 09-09-2025",
+			"owner":"novum",
+			"id":"Death-10-27-43-09-09-2025_-2303-71-575"
+		},
+		{
+			"x":-1483,
+			"y":175,
+			"elevation":65,
+			"color":"rgb(215, 155, 150)",
+			"name":"Death 11:06:52 09-09-2025",
+			"owner":"novum",
+			"id":"Death-11-06-52-09-09-2025_-1483-65-175"
+		},
+		{
+			"x":-5816,
+			"y":103,
+			"elevation":59,
+			"color":"rgb(144, 144, 192)",
+			"name":"Death 11:13:36 09-09-2025",
+			"owner":"novum",
+			"id":"Death-11-13-36-09-09-2025_-5816-59-103"
+		},
+		{
+			"x":-6030,
+			"y":-1061,
+			"elevation":72,
+			"color":"rgb(252, 39, 80)",
+			"name":"Death 14:01:55 09-09-2025",
+			"owner":"novum",
+			"id":"Death-14-01-55-09-09-2025_-6030-72-1061"
+		},
+		{
+			"x":-6115,
+			"y":-229,
+			"elevation":65,
+			"color":"rgb(238, 159, 219)",
+			"name":"Death 19:48:23 09-07-2025",
+			"owner":"novum",
+			"id":"Death-19-48-23-09-07-2025_-6115-65-229"
+		},
+		{
+			"x":-5772,
+			"y":-586,
+			"elevation":64,
+			"color":"rgb(235, 20, 206)",
+			"name":"Delfino Coral Step",
+			"owner":"novum",
+			"id":"Delfino-Coral-Step_-5772-64-586"
+		},
+		{
+			"x":-3628,
+			"y":1201,
+			"elevation":82,
+			"color":"rgb(0, 212, 253)",
+			"name":"Eastern Winter Front",
+			"owner":"novum",
+			"id":"Eastern-Winter-Front_-3628-82-1201"
+		},
+		{
+			"x":-2776,
+			"y":96,
+			"elevation":73,
+			"color":"rgb(29, 157, 211)",
+			"name":"Eater of the Azure",
+			"owner":"novum",
+			"id":"Eater-of-the-Azure_-2776-73-96"
+		},
+		{
+			"x":-6330,
+			"y":-1019,
+			"elevation":76,
+			"color":"rgb(83, 107, 206)",
+			"name":"Falling Arrowhead Field",
+			"owner":"novum",
+			"id":"Falling-Arrowhead-Field_-6330-76-1019"
+		},
+		{
+			"x":-5298,
+			"y":-309,
+			"elevation":63,
+			"color":"rgb(160, 213, 233)",
+			"name":"Fountain Over Yonder",
+			"owner":"novum",
+			"id":"Fountain-Over-Yonder_-5298-63-309"
+		},
+		{
+			"x":-5555,
+			"y":2389,
+			"elevation":30,
+			"color":"rgb(164, 208, 133)",
+			"name":"Four Pillar Crater",
+			"owner":"novum",
+			"id":"Four-Pillar-Crater_-5555-30-2389"
+		},
+		{
+			"x":-6701,
+			"y":-1123,
+			"elevation":76,
+			"color":"rgb(212, 194, 150)",
+			"name":"Half Crescent Heritage Site",
+			"owner":"novum",
+			"id":"Half-Crescent-Heritage-Site_-6701-76-1123"
+		},
+		{
+			"x":-6162,
+			"y":-216,
+			"elevation":63,
+			"color":"rgb(160, 213, 233)",
+			"name":"Halo of Radiance",
+			"owner":"novum",
+			"id":"Halo-of-Radiance_-6162-63-216"
+		},
+		{
+			"x":-4089,
+			"y":827,
+			"elevation":84,
+			"color":"rgb(102, 222, 201)",
+			"name":"Hillside Point",
+			"owner":"novum",
+			"id":"Hillside-Point_-4089-84-827"
+		},
+		{
+			"x":-5432,
+			"y":4120,
+			"elevation":83,
+			"color":"rgb(3, 146, 206)",
+			"name":"Liberated Camp Bravo",
+			"owner":"novum",
+			"id":"Liberated-Camp-Bravo_-5432-83-4120"
+		},
+		{
+			"x":-5319,
+			"y":2204,
+			"elevation":115,
+			"color":"rgb(126, 167, 213)",
+			"name":"Liberated Camp Echo",
+			"owner":"novum",
+			"id":"Liberated-Camp-Echo_-5319-115-2204"
+		},
+		{
+			"x":-8137,
+			"y":730,
+			"elevation":89,
+			"color":"rgb(1, 103, 251)",
+			"name":"Liberated Fairy Tower",
+			"owner":"novum",
+			"id":"Liberated-Fairy-Tower_-8137-89-730"
+		},
+		{
+			"x":-3694,
+			"y":1648,
+			"elevation":64,
+			"color":"rgb(0, 232, 253)",
+			"name":"Little Caper",
+			"owner":"novum",
+			"id":"Little-Caper_-3694-64-1648"
+		},
+		{
+			"x":-9493,
+			"y":-1147,
+			"elevation":187,
+			"color":"rgb(102, 137, 43)",
+			"name":"Lone Pine Mt.",
+			"owner":"novum",
+			"id":"Lone-Pine-Mt-_-9493-187-1147"
+		},
+		{
+			"x":-5650,
+			"y":-1854,
+			"elevation":94,
+			"color":"rgb(152, 0, 247)",
+			"name":"Memento Mori",
+			"owner":"novum",
+			"id":"Memento-Mori_-5650-94-1854"
+		},
+		{
+			"x":-6788,
+			"y":2270,
+			"elevation":190,
+			"color":"rgb(239, 0, 254)",
+			"name":"Mt. Crow",
+			"owner":"novum",
+			"id":"Mt-Crow_-6788-190-2270"
+		},
+		{
+			"x":-6897,
+			"y":-1262,
+			"elevation":148,
+			"color":"rgb(253, 81, 8)",
+			"name":"Mt. Helena",
+			"owner":"novum",
+			"id":"Mt-Helena_-6897-148-1262"
+		},
+		{
+			"x":-6117,
+			"y":-194,
+			"elevation":139,
+			"color":"rgb(99, 179, 192)",
+			"name":"Mt. Milith",
+			"owner":"novum",
+			"id":"Mt-Milith_-6117-139-194"
+		},
+		{
+			"x":-5372,
+			"y":-314,
+			"elevation":60,
+			"color":"rgb(75, 145, 215)",
+			"name":"Muro di Azure ",
+			"owner":"novum",
+			"id":"Muro-di-Azure-_-5372-60-314"
+		},
+		{
+			"x":-6148,
+			"y":-1412,
+			"elevation":96,
+			"color":"rgb(0, 254, 142)",
+			"name":"Northern Ridge",
+			"owner":"novum",
+			"id":"Northern-Ridge_-6148-96-1412"
+		},
+		{
+			"x":-3855,
+			"y":31,
+			"elevation":107,
+			"color":"rgb(0, 254, 142)",
+			"name":"Novalis Golden Pine Station",
+			"owner":"novum",
+			"id":"Novalis-Golden-Pine-Station_-3855-107-31"
+		},
+		{
+			"x":-6032,
+			"y":-539,
+			"elevation":152,
+			"color":"rgb(135, 218, 192)",
+			"name":"Novalis LightHouse",
+			"owner":"novum",
+			"id":"Novalis-LightHouse_-6032-152-539"
+		},
+		{
+			"x":-2751,
+			"y":-1771,
+			"elevation":240,
+			"color":"rgb(37, 112, 135)",
+			"name":"Novalis Military Station",
+			"owner":"novum",
+			"id":"Novalis-Military-Station_-2751-240-1771"
+		},
+		{
+			"x":-6834,
+			"y":1427,
+			"elevation":65,
+			"color":"rgb(88, 148, 159)",
+			"name":"Novalis Southern Gate",
+			"owner":"novum",
+			"id":"Novalis-Southern-Gate_-6834-65-1427"
+		},
+		{
+			"x":-6710,
+			"y":-1023,
+			"elevation":99,
+			"color":"rgb(12, 245, 144)",
+			"name":"Novalis Stronghold",
+			"owner":"novum",
+			"id":"Novalis-Stronghold_-6710-99-1023"
+		},
+		{
+			"x":-6205,
+			"y":280,
+			"elevation":93,
+			"color":"rgb(3, 146, 206)",
+			"name":"Novum 17",
+			"owner":"novum",
+			"id":"Novum-17_-6205-93-280"
+		},
+		{
+			"x":-4437,
+			"y":37,
+			"elevation":72,
+			"color":"rgb(0, 206, 248)",
+			"name":"Novum Bay",
+			"owner":"novum",
+			"id":"Novum-Bay_-4437-72-37"
+		},
+		{
+			"x":-5960,
+			"y":66,
+			"elevation":213,
+			"color":"rgb(34, 237, 225)",
+			"name":"Observatory",
+			"owner":"novum",
+			"id":"Observatory_-5960-213-66"
+		},
+		{
+			"x":-5823,
+			"y":2825,
+			"elevation":165,
+			"color":"rgb(250, 188, 2)",
+			"name":"Pacifica Peak",
+			"owner":"novum",
+			"id":"Pacifica-Peak_-5823-165-2825"
+		},
+		{
+			"x":-1824,
+			"y":109,
+			"elevation":239,
+			"color":"rgb(145, 125, 10)",
+			"name":"Ransacked Airship",
+			"owner":"novum",
+			"id":"Ransacked-Airship_-1824-239-109"
+		},
+		{
+			"x":-1803,
+			"y":-2071,
+			"elevation":90,
+			"color":"rgb(255, 3, 80)",
+			"name":"Rat Cave",
+			"owner":"novum",
+			"id":"Rat-Cave_-1803-90-2071"
+		},
+		{
+			"x":-7709,
+			"y":703,
+			"elevation":68,
+			"color":"rgb(167, 25, 75)",
+			"name":"Red Sun View",
+			"owner":"novum",
+			"id":"Red-Sun-View_-7709-68-703"
+		},
+		{
+			"x":-6728,
+			"y":328,
+			"elevation":63,
+			"color":"rgb(226, 197, 64)",
+			"name":"Ruins",
+			"owner":"novum",
+			"id":"Ruins_-6728-63-328"
+		},
+		{
+			"x":-5176,
+			"y":-699,
+			"elevation":64,
+			"color":"rgb(0, 254, 237)",
+			"name":"S.S John Loo",
+			"owner":"novum",
+			"id":"S-S-John-Loo_-5176-64-699"
+		},
+		{
+			"x":-6623,
+			"y":175,
+			"elevation":79,
+			"color":"rgb(179, 96, 204)",
+			"name":"S.S. Romulus",
+			"owner":"novum",
+			"id":"S-S-Romulus_-6623-79-175"
+		},
+		{
+			"x":-5494,
+			"y":-612,
+			"elevation":62,
+			"color":"rgb(223, 218, 164)",
+			"name":"Sand Guantanamo Bay",
+			"owner":"novum",
+			"id":"Sand-Guantanamo-Bay_-5494-62-612"
+		},
+		{
+			"x":-6831,
+			"y":947,
+			"elevation":63,
+			"color":"rgb(53, 105, 61)",
+			"name":"Ship Ruins",
+			"owner":"novum",
+			"id":"Ship-Ruins_-6831-63-947"
+		},
+		{
+			"x":-5816,
+			"y":112,
+			"elevation":58,
+			"color":"rgb(160, 213, 233)",
+			"name":"Southern Entrance ",
+			"owner":"novum",
+			"id":"Southern-Entrance-_-5816-58-112"
+		},
+		{
+			"x":-7677,
+			"y":122,
+			"elevation":72,
+			"color":"rgb(117, 130, 160)",
+			"name":"St. Avaris",
+			"owner":"novum",
+			"id":"St-Avaris_-7677-72-122"
+		},
+		{
+			"x":-4737,
+			"y":1024,
+			"elevation":90,
+			"color":"rgb(104, 189, 225)",
+			"name":"Stairway to Heaven",
+			"owner":"novum",
+			"id":"Stairway-to-Heaven_-4737-90-1024"
+		},
+		{
+			"x":-6389,
+			"y":-1403,
+			"elevation":64,
+			"color":"rgb(178, 94, 204)",
+			"name":"Step Reef",
+			"owner":"novum",
+			"id":"Step-Reef_-6389-64-1403"
+		},
+		{
+			"x":-6439,
+			"y":-257,
+			"elevation":65,
+			"color":"rgb(215, 222, 14)",
+			"name":"StoneWorth Island",
+			"owner":"novum",
+			"id":"StoneWorth-Island_-6439-65-257"
+		},
+		{
+			"x":-6855,
+			"y":-464,
+			"elevation":62,
+			"color":"rgb(167, 140, 213)",
+			"name":"Tomb of Dreams",
+			"owner":"novum",
+			"id":"Tomb-of-Dreams_-6855-62-464"
+		},
+		{
+			"x":-9514,
+			"y":-1147,
+			"elevation":161,
+			"color":"rgb(101, 26, 232)",
+			"name":"Under Star Pond",
+			"owner":"novum",
+			"id":"Under-Star-Pond_-9514-161-1147"
+		},
+		{
+			"x":-5678,
+			"y":130,
+			"elevation":139,
+			"color":"rgb(254, 0, 59)",
+			"name":"Valley of Maple",
+			"owner":"novum",
+			"id":"Valley-of-Maple_-5678-139-130"
+		},
+		{
+			"x":-6144,
+			"y":-348,
+			"elevation":64,
+			"color":"rgb(160, 213, 233)",
+			"name":"Valley of Mor",
+			"owner":"novum",
+			"id":"Valley-of-Mor_-6144-64-348"
+		},
+		{
+			"x":-5598,
+			"y":1,
+			"elevation":181,
+			"color":"rgb(129, 178, 175)",
+			"name":"w. Novalis Stronghold",
+			"owner":"novum",
+			"id":"w-Novalis-Stronghold_-5598-181-1"
+		},
+		{
+			"x":-7295,
+			"y":-1025,
+			"elevation":130,
+			"color":"rgb(190, 250, 89)",
+			"name":"W.P.F. Station",
+			"owner":"novum",
+			"id":"W-P-F-Station_-7295-130-1025"
+		},
+		{
+			"x":-3393,
+			"y":101,
+			"elevation":65,
+			"color":"rgb(139, 124, 214)",
+			"name":"Waypoint Island",
+			"owner":"novum",
+			"id":"Waypoint-Island_-3393-65-101"
+		},
+		{
+			"x":-5848,
+			"y":-1114,
+			"elevation":78,
+			"color":"rgb(102, 176, 50)",
+			"name":"White Jade Outpost",
+			"owner":"novum",
+			"id":"White-Jade-Outpost_-5848-78-1114"
+		},
+		{
+			"x":-4184,
+			"y":1796,
+			"elevation":67,
+			"color":"rgb(253, 28, 0)",
+			"name":"Yo\u0027Angelo",
+			"owner":"novum",
+			"id":"Yo-Angelo_-4184-67-1796"
 		}
 	]
 }
