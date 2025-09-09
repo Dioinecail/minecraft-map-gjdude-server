@@ -1,0 +1,22 @@
+{
+  "id": "Shroomburg_-1926-177-1864",
+  "name": "Shroomburg",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8930999-waypoint-icon.png",
+  "x": -1926,
+  "y": 177,
+  "z": -1864,
+  "r": 119,
+  "g": 185,
+  "b": 73,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

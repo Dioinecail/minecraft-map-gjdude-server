@@ -1,0 +1,22 @@
+{
+  "id": "FOUND-TREASURE_-3058-63-3969",
+  "name": "FOUND TREASURE",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1575889-waypoint-icon.png",
+  "x": -3058,
+  "y": 63,
+  "z": -3969,
+  "r": 231,
+  "g": 244,
+  "b": 47,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

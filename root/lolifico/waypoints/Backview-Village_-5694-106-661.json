@@ -1,0 +1,22 @@
+{
+  "id": "Backview-Village_-5694-106-661",
+  "name": "Backview Village",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9916107-waypoint-icon.png",
+  "x": -5694,
+  "y": 106,
+  "z": 661,
+  "r": 104,
+  "g": 177,
+  "b": 53,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

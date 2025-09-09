@@ -1,0 +1,22 @@
+{
+  "id": "Opression_-5599-185-3",
+  "name": "Opression",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--65997-waypoint-icon.png",
+  "x": -5599,
+  "y": 185,
+  "z": 3,
+  "r": 254,
+  "g": 254,
+  "b": 51,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

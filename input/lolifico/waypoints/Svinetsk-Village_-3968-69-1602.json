@@ -1,0 +1,22 @@
+{
+  "id": "Svinetsk-Village_-3968-69-1602",
+  "name": "Svinetsk Village",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10047438-waypoint-icon.png",
+  "x": -3968,
+  "y": 69,
+  "z": -1602,
+  "r": 102,
+  "g": 176,
+  "b": 50,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

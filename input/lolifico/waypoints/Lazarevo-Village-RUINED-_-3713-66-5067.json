@@ -1,0 +1,22 @@
+{
+  "id": "Lazarevo-Village-RUINED-_-3713-66-5067",
+  "name": "Lazarevo Village (RUINED)",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--158976-waypoint-icon.png",
+  "x": -3713,
+  "y": 66,
+  "z": -5067,
+  "r": 253,
+  "g": 147,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

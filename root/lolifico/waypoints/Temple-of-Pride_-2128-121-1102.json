@@ -1,0 +1,22 @@
+{
+  "id": "Temple-of-Pride_-2128-121-1102",
+  "name": "Temple of Pride",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--65997-waypoint-icon.png",
+  "x": -2128,
+  "y": 121,
+  "z": -1102,
+  "r": 254,
+  "g": 254,
+  "b": 51,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

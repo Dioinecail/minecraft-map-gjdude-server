@@ -1,0 +1,22 @@
+{
+  "id": "Spawn-Tower_-272-63-120",
+  "name": "Spawn Tower",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10130258-waypoint-icon.png",
+  "x": -272,
+  "y": 63,
+  "z": 120,
+  "r": 101,
+  "g": 108,
+  "b": 174,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

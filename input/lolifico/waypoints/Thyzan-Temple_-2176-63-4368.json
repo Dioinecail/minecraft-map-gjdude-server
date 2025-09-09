@@ -1,0 +1,22 @@
+{
+  "id": "Thyzan-Temple_-2176-63-4368",
+  "name": "Thyzan Temple",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16711955-waypoint-icon.png",
+  "x": -2176,
+  "y": 63,
+  "z": -4368,
+  "r": 0,
+  "g": 254,
+  "b": 237,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

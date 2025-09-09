@@ -1,0 +1,22 @@
+{
+  "id": "le-Tonnelle_1956-6-105",
+  "name": "le Tonnelle",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--547784-waypoint-icon.png",
+  "x": 1956,
+  "y": 6,
+  "z": -105,
+  "r": 247,
+  "g": 164,
+  "b": 56,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

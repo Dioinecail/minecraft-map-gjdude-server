@@ -1,0 +1,22 @@
+{
+  "id": "Syriac-Harbor_-1382-74-2164",
+  "name": "Syriac Harbor",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10047438-waypoint-icon.png",
+  "x": -1382,
+  "y": 74,
+  "z": -2164,
+  "r": 102,
+  "g": 176,
+  "b": 50,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

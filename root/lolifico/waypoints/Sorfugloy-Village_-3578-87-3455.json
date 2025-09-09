@@ -1,0 +1,22 @@
+{
+  "id": "Sorfugloy-Village_-3578-87-3455",
+  "name": "Sorfugloy Village",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10047438-waypoint-icon.png",
+  "x": -3578,
+  "y": 87,
+  "z": -3455,
+  "r": 102,
+  "g": 176,
+  "b": 50,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

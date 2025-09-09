@@ -1,0 +1,95 @@
+{
+	"map":[
+		{
+			"url":"./stitched1024/-2,-3.png",
+			"x":-2,
+			"y":-3
+		},
+		{
+			"url":"./stitched1024/-2,1.png",
+			"x":-2,
+			"y":1
+		},
+		{
+			"url":"./stitched1024/-6,-3.png",
+			"x":-6,
+			"y":-3
+		},
+		{
+			"url":"./stitched1024/-6,-7.png",
+			"x":-6,
+			"y":-7
+		},
+		{
+			"url":"./stitched1024/-6,1.png",
+			"x":-6,
+			"y":1
+		},
+		{
+			"url":"./stitched1024/2,-3.png",
+			"x":2,
+			"y":-3
+		},
+		{
+			"url":"./stitched1024/2,1.png",
+			"x":2,
+			"y":1
+		}
+	],
+	"waypoints":[
+		{
+			"x":895,
+			"y":-833,
+			"elevation":101,
+			"color":"rgb(0, 208, 254)",
+			"name":"Crabtaceonia",
+			"owner":"cptcrabhands",
+			"id":"Crabtaceonia_895-101-833"
+		},
+		{
+			"x":2117,
+			"y":-212,
+			"elevation":77,
+			"color":"rgb(136, 198, 115)",
+			"name":"Jungle Shrine",
+			"owner":"cptcrabhands",
+			"id":"Jungle-Shrine_2117-77-212"
+		},
+		{
+			"x":1956,
+			"y":-105,
+			"elevation":6,
+			"color":"rgb(247, 164, 56)",
+			"name":"le Tonnelle",
+			"owner":"cptcrabhands",
+			"id":"le-Tonnelle_1956-6-105"
+		},
+		{
+			"x":1323,
+			"y":90,
+			"elevation":69,
+			"color":"rgb(83, 112, 253)",
+			"name":"Shingoland?",
+			"owner":"cptcrabhands",
+			"id":"Shingoland-_1323-69-90"
+		},
+		{
+			"x":-272,
+			"y":120,
+			"elevation":63,
+			"color":"rgb(101, 108, 174)",
+			"name":"Spawn Tower",
+			"owner":"cptcrabhands",
+			"id":"Spawn-Tower_-272-63-120"
+		},
+		{
+			"x":1984,
+			"y":31,
+			"elevation":180,
+			"color":"rgb(46, 184, 240)",
+			"name":"Temple Of Dungcrap",
+			"owner":"cptcrabhands",
+			"id":"Temple-Of-Dungcrap_1984-180-31"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Novosolovka-Village_-3771-67-4630",
+  "name": "Novosolovka Village",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10047438-waypoint-icon.png",
+  "x": -3771,
+  "y": 67,
+  "z": -4630,
+  "r": 102,
+  "g": 176,
+  "b": 50,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

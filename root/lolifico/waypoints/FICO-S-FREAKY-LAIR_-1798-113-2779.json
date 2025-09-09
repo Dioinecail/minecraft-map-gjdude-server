@@ -1,0 +1,22 @@
+{
+  "id": "FICO-S-FREAKY-LAIR_-1798-113-2779",
+  "name": "FICO\u0027S FREAKY LAIR",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--121070-waypoint-icon.png",
+  "x": -1798,
+  "y": 113,
+  "z": -2779,
+  "r": 254,
+  "g": 39,
+  "b": 18,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

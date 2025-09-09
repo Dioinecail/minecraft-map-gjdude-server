@@ -1,0 +1,22 @@
+{
+  "id": "Thornblown-Towers_-3799-156-6534",
+  "name": "Thornblown Towers",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--130933-waypoint-icon.png",
+  "x": -3799,
+  "y": 156,
+  "z": -6534,
+  "r": 254,
+  "g": 0,
+  "b": 139,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

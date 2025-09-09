@@ -1,0 +1,22 @@
+{
+  "id": "Shingoland-_1323-69-90",
+  "name": "Shingoland?",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--11308803-waypoint-icon.png",
+  "x": 1323,
+  "y": 69,
+  "z": 90,
+  "r": 83,
+  "g": 112,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

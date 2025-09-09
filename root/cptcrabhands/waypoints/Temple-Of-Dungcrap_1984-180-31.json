@@ -1,0 +1,22 @@
+{
+  "id": "Temple-Of-Dungcrap_1984-180-31",
+  "name": "Temple Of Dungcrap",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--13715216-waypoint-icon.png",
+  "x": 1984,
+  "y": 180,
+  "z": 31,
+  "r": 46,
+  "g": 184,
+  "b": 240,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

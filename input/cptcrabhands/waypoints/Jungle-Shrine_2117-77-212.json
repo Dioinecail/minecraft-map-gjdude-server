@@ -1,0 +1,22 @@
+{
+  "id": "Jungle-Shrine_2117-77-212",
+  "name": "Jungle Shrine",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7813517-waypoint-icon.png",
+  "x": 2117,
+  "y": 77,
+  "z": -212,
+  "r": 136,
+  "g": 198,
+  "b": 115,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

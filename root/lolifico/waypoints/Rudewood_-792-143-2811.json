@@ -1,0 +1,22 @@
+{
+  "id": "Rudewood_-792-143-2811",
+  "name": "Rudewood",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7930368-waypoint-icon.png",
+  "x": -792,
+  "y": 143,
+  "z": -2811,
+  "r": 134,
+  "g": 254,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

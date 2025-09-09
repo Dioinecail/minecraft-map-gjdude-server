@@ -1,0 +1,22 @@
+{
+  "id": "Platoon-Island-Commander-s-_-2123-71-592",
+  "name": "Platoon Island (Commander\u0027s)",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8328660-waypoint-icon.png",
+  "x": -2123,
+  "y": 71,
+  "z": -592,
+  "r": 128,
+  "g": 234,
+  "b": 44,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

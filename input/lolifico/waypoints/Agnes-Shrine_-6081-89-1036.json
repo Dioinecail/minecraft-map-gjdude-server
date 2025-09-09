@@ -1,0 +1,22 @@
+{
+  "id": "Agnes-Shrine_-6081-89-1036",
+  "name": "Agnes Shrine",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--3974341-waypoint-icon.png",
+  "x": -6081,
+  "y": 89,
+  "z": -1036,
+  "r": 195,
+  "g": 91,
+  "b": 59,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Child-Porn-Lake_-913-63-2729",
+  "name": "Child Porn Lake",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16722691-waypoint-icon.png",
+  "x": -913,
+  "y": 63,
+  "z": -2729,
+  "r": 0,
+  "g": 212,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

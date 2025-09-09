@@ -1,0 +1,22 @@
+{
+  "id": "JEWISH-TUNNEL_-1287-67-969",
+  "name": "JEWISH TUNNEL",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16753923-waypoint-icon.png",
+  "x": -1287,
+  "y": 67,
+  "z": 969,
+  "r": 0,
+  "g": 90,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

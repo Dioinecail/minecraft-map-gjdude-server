@@ -1,0 +1,22 @@
+{
+  "id": "IDF-Outpost_-1690-119-1977",
+  "name": "IDF Outpost",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16759810-waypoint-icon.png",
+  "x": -1690,
+  "y": 119,
+  "z": -1977,
+  "r": 0,
+  "g": 67,
+  "b": 254,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

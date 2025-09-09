@@ -1,0 +1,22 @@
+{
+  "id": "Didyma-Temple_-5211-78-1487",
+  "name": "Didyma Temple",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16717063-waypoint-icon.png",
+  "x": -5211,
+  "y": 78,
+  "z": -1487,
+  "r": 0,
+  "g": 234,
+  "b": 249,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

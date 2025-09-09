@@ -1,0 +1,22 @@
+{
+  "id": "Bosenderoy-Island_-2450-82-3770",
+  "name": "Bosenderoy Island",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8930999-waypoint-icon.png",
+  "x": -2450,
+  "y": 82,
+  "z": -3770,
+  "r": 119,
+  "g": 185,
+  "b": 73,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

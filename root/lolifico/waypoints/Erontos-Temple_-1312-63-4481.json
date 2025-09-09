@@ -1,0 +1,22 @@
+{
+  "id": "Erontos-Temple_-1312-63-4481",
+  "name": "Erontos Temple",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16711688-waypoint-icon.png",
+  "x": -1312,
+  "y": 63,
+  "z": -4481,
+  "r": 0,
+  "g": 255,
+  "b": 248,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

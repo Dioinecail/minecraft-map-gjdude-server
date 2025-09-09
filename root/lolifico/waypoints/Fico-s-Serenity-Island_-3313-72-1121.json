@@ -1,0 +1,22 @@
+{
+  "id": "Fico-s-Serenity-Island_-3313-72-1121",
+  "name": "Fico\u0027s Serenity Island",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--121070-waypoint-icon.png",
+  "x": -3313,
+  "y": 72,
+  "z": -1121,
+  "r": 254,
+  "g": 39,
+  "b": 18,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
