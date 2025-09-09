@@ -1023,6 +1023,123 @@
 			"id":"Thyzan-Temple_-2176-63-4368"
 		},
 		{
+			"x":-2265,
+			"y":-853,
+			"elevation":68,
+			"color":"rgb(254, 0, 251)",
+			"name":"Amethyst Geode",
+			"owner":"MacroHardt",
+			"id":"Amethyst-Geode_-2265-68-853"
+		},
+		{
+			"x":880,
+			"y":-861,
+			"elevation":106,
+			"color":"rgb(253, 83, 8)",
+			"name":"Crab Claw Shore",
+			"owner":"MacroHardt",
+			"id":"Crab-Claw-Shore_880-106-861"
+		},
+		{
+			"x":-1750,
+			"y":135,
+			"elevation":94,
+			"color":"rgb(102, 176, 50)",
+			"name":"Farmer\u0027s Hut",
+			"owner":"MacroHardt",
+			"id":"Farmer-s-Hut_-1750-94-135"
+		},
+		{
+			"x":-2040,
+			"y":-301,
+			"elevation":63,
+			"color":"rgb(102, 176, 50)",
+			"name":"Hidden Village",
+			"owner":"MacroHardt",
+			"id":"Hidden-Village_-2040-63-301"
+		},
+		{
+			"x":-2817,
+			"y":1926,
+			"elevation":213,
+			"color":"rgb(162, 137, 16)",
+			"name":"Infested Temple",
+			"owner":"MacroHardt",
+			"id":"Infested-Temple_-2817-213-1926"
+		},
+		{
+			"x":-4438,
+			"y":41,
+			"elevation":72,
+			"color":"rgb(209, 32, 47)",
+			"name":"Kyoto Mainland Prefecture",
+			"owner":"MacroHardt",
+			"id":"Kyoto-Mainland-Prefecture_-4438-72-41"
+		},
+		{
+			"x":-2329,
+			"y":-954,
+			"elevation":94,
+			"color":"rgb(152, 0, 247)",
+			"name":"Lavender Town",
+			"owner":"MacroHardt",
+			"id":"Lavender-Town_-2329-94-954"
+		},
+		{
+			"x":-1805,
+			"y":-2775,
+			"elevation":112,
+			"color":"rgb(254, 254, 95)",
+			"name":"Lolifico\u0027s Base of Operations",
+			"owner":"MacroHardt",
+			"id":"Lolifico-s-Base-of-Operations_-1805-112-2775"
+		},
+		{
+			"x":-2162,
+			"y":437,
+			"elevation":69,
+			"color":"rgb(128, 162, 254)",
+			"name":"Macro\u0027s Homestead",
+			"owner":"MacroHardt",
+			"id":"Macro-s-Homestead_-2162-69-437"
+		},
+		{
+			"x":-5500,
+			"y":-614,
+			"elevation":68,
+			"color":"rgb(194, 200, 222)",
+			"name":"Novum Bay",
+			"owner":"MacroHardt",
+			"id":"Novum-Bay_-5500-68-614"
+		},
+		{
+			"x":-1543,
+			"y":-2552,
+			"elevation":97,
+			"color":"rgb(243, 127, 229)",
+			"name":"Place, Japan",
+			"owner":"MacroHardt",
+			"id":"Place-Japan_-1543-97-2552"
+		},
+		{
+			"x":-2258,
+			"y":589,
+			"elevation":86,
+			"color":"rgb(251, 153, 2)",
+			"name":"Round Girl Residence",
+			"owner":"MacroHardt",
+			"id":"Round-Girl-Residence_-2258-86-589"
+		},
+		{
+			"x":-273,
+			"y":118,
+			"elevation":63,
+			"color":"rgb(250, 144, 80)",
+			"name":"Spawn Area",
+			"owner":"MacroHardt",
+			"id":"Spawn-Area_-273-63-118"
+		},
+		{
 			"x":-5645,
 			"y":4,
 			"elevation":310,
