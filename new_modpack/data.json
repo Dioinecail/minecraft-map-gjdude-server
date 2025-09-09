@@ -1,6 +1,46 @@
 {
 	"map":[
 		{
+			"url":"./stitched1024/-11,-10.png",
+			"x":-11,
+			"y":-10
+		},
+		{
+			"url":"./stitched1024/-11,-14.png",
+			"x":-11,
+			"y":-14
+		},
+		{
+			"url":"./stitched1024/-11,-2.png",
+			"x":-11,
+			"y":-2
+		},
+		{
+			"url":"./stitched1024/-11,-6.png",
+			"x":-11,
+			"y":-6
+		},
+		{
+			"url":"./stitched1024/-11,2.png",
+			"x":-11,
+			"y":2
+		},
+		{
+			"url":"./stitched1024/-15,-2.png",
+			"x":-15,
+			"y":-2
+		},
+		{
+			"url":"./stitched1024/-15,-6.png",
+			"x":-15,
+			"y":-6
+		},
+		{
+			"url":"./stitched1024/-15,2.png",
+			"x":-15,
+			"y":2
+		},
+		{
 			"url":"./stitched1024/-2,-3.png",
 			"x":-2,
 			"y":-3
@@ -9,6 +49,26 @@
 			"url":"./stitched1024/-2,1.png",
 			"x":-2,
 			"y":1
+		},
+		{
+			"url":"./stitched1024/-3,-10.png",
+			"x":-3,
+			"y":-10
+		},
+		{
+			"url":"./stitched1024/-3,-2.png",
+			"x":-3,
+			"y":-2
+		},
+		{
+			"url":"./stitched1024/-3,-6.png",
+			"x":-3,
+			"y":-6
+		},
+		{
+			"url":"./stitched1024/-3,2.png",
+			"x":-3,
+			"y":2
 		},
 		{
 			"url":"./stitched1024/-6,-3.png",
@@ -24,6 +84,46 @@
 			"url":"./stitched1024/-6,1.png",
 			"x":-6,
 			"y":1
+		},
+		{
+			"url":"./stitched1024/-7,-10.png",
+			"x":-7,
+			"y":-10
+		},
+		{
+			"url":"./stitched1024/-7,-14.png",
+			"x":-7,
+			"y":-14
+		},
+		{
+			"url":"./stitched1024/-7,-2.png",
+			"x":-7,
+			"y":-2
+		},
+		{
+			"url":"./stitched1024/-7,-6.png",
+			"x":-7,
+			"y":-6
+		},
+		{
+			"url":"./stitched1024/-7,2.png",
+			"x":-7,
+			"y":2
+		},
+		{
+			"url":"./stitched1024/1,-2.png",
+			"x":1,
+			"y":-2
+		},
+		{
+			"url":"./stitched1024/1,-6.png",
+			"x":1,
+			"y":-6
+		},
+		{
+			"url":"./stitched1024/1,2.png",
+			"x":1,
+			"y":2
 		},
 		{
 			"url":"./stitched1024/2,-3.png",
@@ -90,6 +190,447 @@
 			"name":"Temple Of Dungcrap",
 			"owner":"cptcrabhands",
 			"id":"Temple-Of-Dungcrap_1984-180-31"
+		},
+		{
+			"x":-1208,
+			"y":-953,
+			"elevation":63,
+			"color":"rgb(210, 6, 11)",
+			"name":"-1208, -953",
+			"owner":"lolifico",
+			"id":"-1208-953_-1208-63-953"
+		},
+		{
+			"x":-1208,
+			"y":-953,
+			"elevation":63,
+			"color":"rgb(210, 6, 11)",
+			"name":"-1208, -953",
+			"owner":"lolifico",
+			"id":"-1208-953_-1208-63-953"
+		},
+		{
+			"x":-6081,
+			"y":-1036,
+			"elevation":89,
+			"color":"rgb(195, 91, 59)",
+			"name":"Agnes Shrine",
+			"owner":"lolifico",
+			"id":"Agnes-Shrine_-6081-89-1036"
+		},
+		{
+			"x":-479,
+			"y":1763,
+			"elevation":126,
+			"color":"rgb(254, 254, 51)",
+			"name":"Asmaldo\u0027s Lighthouse",
+			"owner":"lolifico",
+			"id":"Asmaldo-s-Lighthouse_-479-126-1763"
+		},
+		{
+			"x":-5694,
+			"y":661,
+			"elevation":106,
+			"color":"rgb(104, 177, 53)",
+			"name":"Backview Village",
+			"owner":"lolifico",
+			"id":"Backview-Village_-5694-106-661"
+		},
+		{
+			"x":-6201,
+			"y":284,
+			"elevation":94,
+			"color":"rgb(102, 176, 50)",
+			"name":"Barleigh Village",
+			"owner":"lolifico",
+			"id":"Barleigh-Village_-6201-94-284"
+		},
+		{
+			"x":-2450,
+			"y":-3770,
+			"elevation":82,
+			"color":"rgb(119, 185, 73)",
+			"name":"Bosenderoy Island",
+			"owner":"lolifico",
+			"id":"Bosenderoy-Island_-2450-82-3770"
+		},
+		{
+			"x":-4188,
+			"y":-5926,
+			"elevation":63,
+			"color":"rgb(102, 176, 50)",
+			"name":"Boundary Village",
+			"owner":"lolifico",
+			"id":"Boundary-Village_-4188-63-5926"
+		},
+		{
+			"x":-913,
+			"y":-2729,
+			"elevation":63,
+			"color":"rgb(0, 212, 253)",
+			"name":"Child Porn Lake",
+			"owner":"lolifico",
+			"id":"Child-Porn-Lake_-913-63-2729"
+		},
+		{
+			"x":-4266,
+			"y":-5192,
+			"elevation":80,
+			"color":"rgb(129, 223, 254)",
+			"name":"Death 23:18:51 09-05-2025",
+			"owner":"lolifico",
+			"id":"Death-23-18-51-09-05-2025_-4266-80-5192"
+		},
+		{
+			"x":-5211,
+			"y":-1487,
+			"elevation":78,
+			"color":"rgb(0, 234, 249)",
+			"name":"Didyma Temple",
+			"owner":"lolifico",
+			"id":"Didyma-Temple_-5211-78-1487"
+		},
+		{
+			"x":-2756,
+			"y":-557,
+			"elevation":130,
+			"color":"rgb(254, 254, 51)",
+			"name":"Embrace Lighthouse",
+			"owner":"lolifico",
+			"id":"Embrace-Lighthouse_-2756-130-557"
+		},
+		{
+			"x":-1312,
+			"y":-4481,
+			"elevation":63,
+			"color":"rgb(0, 255, 248)",
+			"name":"Erontos Temple",
+			"owner":"lolifico",
+			"id":"Erontos-Temple_-1312-63-4481"
+		},
+		{
+			"x":-785,
+			"y":-3117,
+			"elevation":70,
+			"color":"rgb(102, 176, 50)",
+			"name":"Fell Stop Village",
+			"owner":"lolifico",
+			"id":"Fell-Stop-Village_-785-70-3117"
+		},
+		{
+			"x":-1798,
+			"y":-2779,
+			"elevation":113,
+			"color":"rgb(254, 39, 18)",
+			"name":"FICO\u0027S FREAKY LAIR",
+			"owner":"lolifico",
+			"id":"FICO-S-FREAKY-LAIR_-1798-113-2779"
+		},
+		{
+			"x":-3313,
+			"y":-1121,
+			"elevation":72,
+			"color":"rgb(254, 39, 18)",
+			"name":"Fico\u0027s Serenity Island",
+			"owner":"lolifico",
+			"id":"Fico-s-Serenity-Island_-3313-72-1121"
+		},
+		{
+			"x":-3058,
+			"y":-3969,
+			"elevation":63,
+			"color":"rgb(231, 244, 47)",
+			"name":"FOUND TREASURE",
+			"owner":"lolifico",
+			"id":"FOUND-TREASURE_-3058-63-3969"
+		},
+		{
+			"x":-1518,
+			"y":-2592,
+			"elevation":78,
+			"color":"rgb(251, 0, 252)",
+			"name":"Hyakkiyako (Maki \u0026 Idlya\u0027s)",
+			"owner":"lolifico",
+			"id":"Hyakkiyako-Maki-Idlya-s-_-1518-78-2592"
+		},
+		{
+			"x":-1690,
+			"y":-1977,
+			"elevation":119,
+			"color":"rgb(0, 67, 254)",
+			"name":"IDF Outpost",
+			"owner":"lolifico",
+			"id":"IDF-Outpost_-1690-119-1977"
+		},
+		{
+			"x":-1287,
+			"y":969,
+			"elevation":67,
+			"color":"rgb(0, 90, 253)",
+			"name":"JEWISH TUNNEL",
+			"owner":"lolifico",
+			"id":"JEWISH-TUNNEL_-1287-67-969"
+		},
+		{
+			"x":-4265,
+			"y":-5208,
+			"elevation":60,
+			"color":"rgb(0, 114, 253)",
+			"name":"JEWISH TUNNEL",
+			"owner":"lolifico",
+			"id":"JEWISH-TUNNEL_-4265-60-5208"
+		},
+		{
+			"x":-855,
+			"y":119,
+			"elevation":68,
+			"color":"rgb(0, 117, 253)",
+			"name":"JEWISH TUNNEL",
+			"owner":"lolifico",
+			"id":"JEWISH-TUNNEL_-855-68-119"
+		},
+		{
+			"x":-1277,
+			"y":-927,
+			"elevation":69,
+			"color":"rgb(102, 176, 50)",
+			"name":"Kituiga Village",
+			"owner":"lolifico",
+			"id":"Kituiga-Village_-1277-69-927"
+		},
+		{
+			"x":-6008,
+			"y":1240,
+			"elevation":78,
+			"color":"rgb(102, 176, 50)",
+			"name":"Kogamagai Harbor Village",
+			"owner":"lolifico",
+			"id":"Kogamagai-Harbor-Village_-6008-78-1240"
+		},
+		{
+			"x":-3713,
+			"y":-5067,
+			"elevation":66,
+			"color":"rgb(253, 147, 0)",
+			"name":"Lazarevo Village (RUINED)",
+			"owner":"lolifico",
+			"id":"Lazarevo-Village-RUINED-_-3713-66-5067"
+		},
+		{
+			"x":56,
+			"y":1117,
+			"elevation":82,
+			"color":"rgb(102, 176, 50)",
+			"name":"Lorleans Village",
+			"owner":"lolifico",
+			"id":"Lorleans-Village_56-82-1117"
+		},
+		{
+			"x":-2147,
+			"y":438,
+			"elevation":63,
+			"color":"rgb(208, 234, 43)",
+			"name":"Macro\u0027s",
+			"owner":"lolifico",
+			"id":"Macro-s_-2147-63-438"
+		},
+		{
+			"x":-3199,
+			"y":-1783,
+			"elevation":64,
+			"color":"rgb(102, 176, 50)",
+			"name":"Maklinskaya Village",
+			"owner":"lolifico",
+			"id":"Maklinskaya-Village_-3199-64-1783"
+		},
+		{
+			"x":-1997,
+			"y":-328,
+			"elevation":74,
+			"color":"rgb(102, 176, 50)",
+			"name":"Matlor Village",
+			"owner":"lolifico",
+			"id":"Matlor-Village_-1997-74-328"
+		},
+		{
+			"x":-2318,
+			"y":-957,
+			"elevation":95,
+			"color":"rgb(102, 176, 50)",
+			"name":"Moul Village",
+			"owner":"lolifico",
+			"id":"Moul-Village_-2318-95-957"
+		},
+		{
+			"x":-3771,
+			"y":-4630,
+			"elevation":67,
+			"color":"rgb(102, 176, 50)",
+			"name":"Novosolovka Village",
+			"owner":"lolifico",
+			"id":"Novosolovka-Village_-3771-67-4630"
+		},
+		{
+			"x":-6107,
+			"y":-205,
+			"elevation":167,
+			"color":"rgb(41, 111, 225)",
+			"name":"Novum\u0027s",
+			"owner":"lolifico",
+			"id":"Novum-s_-6107-167-205"
+		},
+		{
+			"x":-6032,
+			"y":-539,
+			"elevation":153,
+			"color":"rgb(254, 254, 51)",
+			"name":"Novumralis Lighthouse",
+			"owner":"lolifico",
+			"id":"Novumralis-Lighthouse_-6032-153-539"
+		},
+		{
+			"x":-5599,
+			"y":3,
+			"elevation":185,
+			"color":"rgb(254, 254, 51)",
+			"name":"Opression",
+			"owner":"lolifico",
+			"id":"Opression_-5599-185-3"
+		},
+		{
+			"x":-2182,
+			"y":-4803,
+			"elevation":69,
+			"color":"rgb(254, 254, 51)",
+			"name":"Origin Island",
+			"owner":"lolifico",
+			"id":"Origin-Island_-2182-69-4803"
+		},
+		{
+			"x":-3499,
+			"y":-2589,
+			"elevation":81,
+			"color":"rgb(102, 176, 50)",
+			"name":"Perttula Village",
+			"owner":"lolifico",
+			"id":"Perttula-Village_-3499-81-2589"
+		},
+		{
+			"x":-2123,
+			"y":-592,
+			"elevation":71,
+			"color":"rgb(128, 234, 44)",
+			"name":"Platoon Island (Commander\u0027s)",
+			"owner":"lolifico",
+			"id":"Platoon-Island-Commander-s-_-2123-71-592"
+		},
+		{
+			"x":-3710,
+			"y":-1876,
+			"elevation":65,
+			"color":"rgb(102, 176, 50)",
+			"name":"Raasepori Village",
+			"owner":"lolifico",
+			"id":"Raasepori-Village_-3710-65-1876"
+		},
+		{
+			"x":-792,
+			"y":-2811,
+			"elevation":143,
+			"color":"rgb(134, 254, 0)",
+			"name":"Rudewood",
+			"owner":"lolifico",
+			"id":"Rudewood_-792-143-2811"
+		},
+		{
+			"x":-1926,
+			"y":-1864,
+			"elevation":177,
+			"color":"rgb(119, 185, 73)",
+			"name":"Shroomburg",
+			"owner":"lolifico",
+			"id":"Shroomburg_-1926-177-1864"
+		},
+		{
+			"x":-460,
+			"y":-3044,
+			"elevation":68,
+			"color":"rgb(102, 176, 50)",
+			"name":"Soirée Calme Village",
+			"owner":"lolifico",
+			"id":"Soirée-Calme-Village_-460-68-3044"
+		},
+		{
+			"x":-3578,
+			"y":-3455,
+			"elevation":87,
+			"color":"rgb(102, 176, 50)",
+			"name":"Sorfugloy Village",
+			"owner":"lolifico",
+			"id":"Sorfugloy-Village_-3578-87-3455"
+		},
+		{
+			"x":-820,
+			"y":-3610,
+			"elevation":70,
+			"color":"rgb(102, 176, 50)",
+			"name":"Spicebush Town",
+			"owner":"lolifico",
+			"id":"Spicebush-Town_-820-70-3610"
+		},
+		{
+			"x":-3968,
+			"y":-1602,
+			"elevation":69,
+			"color":"rgb(102, 176, 50)",
+			"name":"Svinetsk Village",
+			"owner":"lolifico",
+			"id":"Svinetsk-Village_-3968-69-1602"
+		},
+		{
+			"x":-1382,
+			"y":-2164,
+			"elevation":74,
+			"color":"rgb(102, 176, 50)",
+			"name":"Syriac Harbor",
+			"owner":"lolifico",
+			"id":"Syriac-Harbor_-1382-74-2164"
+		},
+		{
+			"x":-2128,
+			"y":-1102,
+			"elevation":121,
+			"color":"rgb(254, 254, 51)",
+			"name":"Temple of Pride",
+			"owner":"lolifico",
+			"id":"Temple-of-Pride_-2128-121-1102"
+		},
+		{
+			"x":-2704,
+			"y":-2555,
+			"elevation":81,
+			"color":"rgb(102, 176, 50)",
+			"name":"The Schapel Hidden Village",
+			"owner":"lolifico",
+			"id":"The-Schapel-Hidden-Village_-2704-81-2555"
+		},
+		{
+			"x":-3799,
+			"y":-6534,
+			"elevation":156,
+			"color":"rgb(254, 0, 139)",
+			"name":"Thornblown Towers",
+			"owner":"lolifico",
+			"id":"Thornblown-Towers_-3799-156-6534"
+		},
+		{
+			"x":-2176,
+			"y":-4368,
+			"elevation":63,
+			"color":"rgb(0, 254, 237)",
+			"name":"Thyzan Temple",
+			"owner":"lolifico",
+			"id":"Thyzan-Temple_-2176-63-4368"
 		}
 	]
 }
